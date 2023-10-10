@@ -8,8 +8,8 @@ export default function App() {
   const [quizStarted, setQuizStarted] = useState(false);
   const [quizCompleted, setQuizCompleted] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [unitRange, setUnitRange] = useState("1-10");
-  const [numQuestions, setNumQuestions] = useState(5);
+  const [unitRange, setUnitRange] = useState("1");
+  const [numQuestions, setNumQuestions] = useState(10);
   const [category, setCategory] = useState('vocab');
   const [questionsAnswered, setQuestionsAnswered] = useState(0);
   const [userAnswer, setUserAnswer] = useState('');
@@ -190,7 +190,6 @@ export default function App() {
   };
 
   const repeatMissed = () => {
-    settimesRepeated(timesRepeated + 1);
     let missedQuestionsToRepeat = [];
   
     if (quizCompleted && !inRepeatQuizMode) {
@@ -225,12 +224,11 @@ export default function App() {
     } else {
       setRepeatMissedButtonVisible(false);
     }
-  
     // Check if it's the last question and show the Finish Quiz button
     if (
-      (numQuestions === 1 && currentQuestion === numQuestions - 1) ||
-      (numQuestions === 2 && currentQuestion === 0) ||
-      (numQuestions > 2 && currentQuestion === numQuestions - 2)
+      (missedQuestionsToRepeat.length === 1 && currentQuestion === 0) ||
+      (missedQuestionsToRepeat.length === 2 && currentQuestion === 1) ||
+      (missedQuestionsToRepeat.length > 2 && currentQuestion === missedQuestionsToRepeat.length - 1)
     ) {
       setIsLastQuestion(true);
     } else {
@@ -243,6 +241,7 @@ export default function App() {
   const handleFinishQuiz = () => {
     // Handle finishing the quiz and show the "Quiz Finished" card
     setShowQuizFinished(true);
+    setCurrentQuestion(0);
     setQuizCompleted(true);
     setRepeatMissedButtonVisible(false);
     if (missedQuestions.length > 0) {
@@ -470,8 +469,8 @@ export default function App() {
                   >
                     Go Back to Start
                     </button>
-                  {repeatMissedButtonVisible && timesRepeated === 0 && (quizCompleted && missedQuestions.length > 0) ||
-                  repeatMissedButtonVisible && timesRepeated === 0 && (repeatQuizMissedQuestions.length > 0 && inRepeatQuizMode) ? (
+                  {(repeatMissedButtonVisible && quizCompleted) ||
+                  (repeatMissedButtonVisible && inRepeatQuizMode) ? (
                     <button className='btn btn-danger ml-2' onClick={repeatMissed}
                     style={{
                       background: '#dc6c75',
