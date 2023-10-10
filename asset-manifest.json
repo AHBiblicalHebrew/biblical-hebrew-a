@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/biblical-hebrew-a/static/css/main.073c9b0a.css",
-    "main.js": "/biblical-hebrew-a/static/js/main.b6fb5ee7.js",
+    "main.css": "/biblical-hebrew-a/static/css/main.6ccd65a8.css",
+    "main.js": "/biblical-hebrew-a/static/js/main.020755b3.js",
     "static/js/787.a14b918b.chunk.js": "/biblical-hebrew-a/static/js/787.a14b918b.chunk.js",
-    "static/media/logo.svg": "/biblical-hebrew-a/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/biblical-hebrew-a/index.html",
-    "main.073c9b0a.css.map": "/biblical-hebrew-a/static/css/main.073c9b0a.css.map",
-    "main.b6fb5ee7.js.map": "/biblical-hebrew-a/static/js/main.b6fb5ee7.js.map",
+    "main.6ccd65a8.css.map": "/biblical-hebrew-a/static/css/main.6ccd65a8.css.map",
+    "main.020755b3.js.map": "/biblical-hebrew-a/static/js/main.020755b3.js.map",
     "787.a14b918b.chunk.js.map": "/biblical-hebrew-a/static/js/787.a14b918b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b6fb5ee7.js"
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.020755b3.js"
   ]
 }
