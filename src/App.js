@@ -365,7 +365,6 @@ export default function App() {
     setCurrentQuestion(0);
     setQuizStarted(false);
     setQuestionsAnswered(0);
-    settimesRepeated(0);
   };
 
   const shuffleArray = (array) => {
@@ -424,7 +423,6 @@ export default function App() {
     setRepeatQuizMissedQuestions([]);
     setInRepeatQuizMode(false);
     setIsLastQuestion(false);
-    settimesRepeated(0);
     setShowQuizFinished(false);
   };
 
