@@ -23,7 +23,6 @@ export default function App() {
   const [repeatMissedButtonVisible, setRepeatMissedButtonVisible] = useState(true);
   const [isLastQuestion, setIsLastQuestion] = useState(false); 
   const [showQuizFinished, setShowQuizFinished] = useState(false);
-  const [timesRepeated, settimesRepeated] = useState(0);
 
 
 
