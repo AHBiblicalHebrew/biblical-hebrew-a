@@ -52,11 +52,11 @@
         "type": "multiple",
         "Unit": 1,
         "question": "Which letters are considered 'final letters' in Hebrew?",
-        "correct_answer": "The 'final letters' in Hebrew are 'ם' (final mem) and 'ן' (final nun).",
+        "correct_answer": "'ם' (final mem) and 'ן' (final nun).",
         "incorrect_answers": [
-            "The 'final letters' in Hebrew are 'א' (final alef) and 'ה' (final heh).",
-            "The 'final letters' in Hebrew are 'ח' (final ḥet) and 'ע' (final ayin).",
-            "The 'final letters' in Hebrew are 'ר' (final resh) and 'ש' (final shin)."
+            "'א' (final alef) and 'ה' (final heh).",
+            "'ח' (final ḥet) and 'ע' (final ayin).",
+            "'ר' (final resh) and 'ש' (final shin)."
         ]
     },
     {
@@ -328,16 +328,2844 @@
         "type": "multiple",
         "Unit": 3,
         "question": "What makes biblical Hebrew transliteration complicated?",
-        "correct_answer": "What makes biblical Hebrew transliteration complicated is the existence of multiple systems, including mater lectionis and diacritic points, existing simultaneously, one on top of the other.",
+        "correct_answer": "What makes biblical Hebrew transliteration complicated is the existence of multiple systems, existing simultaneously, one on top of the other.",
         "incorrect_answers": [
             "What makes biblical Hebrew transliteration complicated is the lack of vowels in the Hebrew script.",
             "What makes biblical Hebrew transliteration complicated is the absence of mater lectionis and diacritic points.",
             "What makes biblical Hebrew transliteration uncomplicated is the consistent use of diacritic points."
         ]
-    }
-    
-]
-    
-    
-    
-
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 4,
+        "question": "How are most 'E' vowels pronounced in Hebrew?",
+        "correct_answer": "Most 'E' vowels are pronounced [ε] as in 'let.'",
+        "incorrect_answers": [
+          "Most 'E' vowels are pronounced [eɪ] as in 'day.'",
+          "Most 'E' vowels are pronounced [i] as in 'meet.'",
+          "Most 'E' vowels are pronounced [o] as in 'open.'"
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 4,
+        "question": "What is the name of the long 'E' vowel with a mater lectionis?",
+        "correct_answer": "The name of the long 'E' vowel with a mater lectionis is 'ê segól malé.'",
+        "incorrect_answers": [
+          "The name of the long 'E' vowel with a mater lectionis is 'e segól.'",
+          "The name of the long 'E' vowel with a mater lectionis is 'ē tsére.'",
+          "The name of the long 'E' vowel with a mater lectionis is 'eh.'"
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 4,
+        "question": "How are all 'I' vowels pronounced in Hebrew?",
+        "correct_answer": "All 'I' vowels are pronounced [i] as in 'meet.'",
+        "incorrect_answers": [
+          "All 'I' vowels are pronounced [ε] as in 'let.'",
+          "All 'I' vowels are pronounced [o] as in 'open.'",
+          "All 'I' vowels are pronounced [u] as in 'boot.'"
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 4,
+        "question": "How are all 'O' vowels pronounced in Hebrew?",
+        "correct_answer": "All 'O' vowels are pronounced [o] as in 'open.'",
+        "incorrect_answers": [
+          "All 'O' vowels are pronounced [ε] as in 'let.'",
+          "All 'O' vowels are pronounced [i] as in 'meet.'",
+          "All 'O' vowels are pronounced [u] as in 'boot.'"
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 4,
+        "question": "How are all 'U' vowels pronounced in Hebrew?",
+        "correct_answer": "All 'U' vowels are pronounced [u] as in 'boot.'",
+        "incorrect_answers": [
+          "All 'U' vowels are pronounced [ε] as in 'let.'",
+          "All 'U' vowels are pronounced [i] as in 'meet.'",
+          "All 'U' vowels are pronounced [o] as in 'open.'"
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "What is the basic rule of Hebrew syllables?",
+        "correct_answer": "The basic rule of Hebrew syllables is that each syllable must begin with a single consonant followed by at least one vowel.",
+        "incorrect_answers": [
+          "The basic rule of Hebrew syllables is that each syllable must begin with a vowel followed by a consonant.",
+          "The basic rule of Hebrew syllables is that each syllable must consist of only consonants.",
+          "The basic rule of Hebrew syllables is that there are no specific rules."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "What are the two regular kinds of syllables in Hebrew?",
+        "correct_answer": "The two regular kinds of syllables in Hebrew are Open syllable (CV syllable) and Closed syllable (CVC syllable).",
+        "incorrect_answers": [
+          "The two regular kinds of syllables in Hebrew are Open syllable (VC syllable) and Closed syllable (CVCV syllable).",
+          "The two regular kinds of syllables in Hebrew are Open syllable (CVV syllable) and Closed syllable (CVCVC syllable).",
+          "Hebrew does not have regular syllables."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "What does the dagesh represent in Hebrew letters?",
+        "correct_answer": "The dagesh represents a different phonetic phenomenon in Hebrew letters.'",
+        "incorrect_answers": [
+          "The dagesh represents a vowel sound in Hebrew letters.",
+          "The dagesh represents a punctuation mark in Hebrew letters.",
+          "The dagesh is not used in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "When does the 'weak dagesh' appear in the בג''ד כּפ''ת letters?",
+        "correct_answer": "The 'weak dagesh' appears in a letter that stands at the beginning of a syllable when it is immediately preceded by another consonant (e.g. יִ שׁבֹּר [yiš-bōr]) or when it stands at the beginning of a word (e.g. בּרָּׁא [bārā’]).",
+        "incorrect_answers": [
+          "The 'weak dagesh' appears only at the end of words.",
+          "The 'weak dagesh' appears in all בג''ד כּפ''ת letters.",
+          "The 'weak dagesh' does not exist in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "When does the 'strong dagesh' appear in Hebrew letters?",
+        "correct_answer": "The 'strong dagesh' in Hebrew letters can appear when it is directly preceded by a vowel.",
+        "incorrect_answers": [
+          "The 'strong dagesh' appears in all Hebrew letters.",
+          "The 'strong dagesh' only appears in the בג''ד כּפ''ת letters.",
+          "The 'strong dagesh' is not used in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "Where does the stress (emphasis) usually fall in Hebrew words?",
+        "correct_answer": "In Hebrew, the stress (emphasis) usually falls on the last syllable (ultimate stress).",
+        "incorrect_answers": [
+          "In Hebrew, the stress (emphasis) usually falls on the first syllable.",
+          "In Hebrew, the stress (emphasis) is evenly distributed across all syllables.",
+          "In Hebrew, the stress (emphasis) always falls on the second to last syllable (penultimate stress)."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "What is the difference between an open syllable and a closed syllable in Hebrew?",
+        "correct_answer": "An open syllable in Hebrew is composed of a Consonant plus a Vowel (CV syllable), while a closed syllable is composed of a Consonant, Vowel, and Consonant (CVC syllable).",
+        "incorrect_answers": [
+          "An open syllable in Hebrew is composed of two vowels (VV syllable), while a closed syllable is composed of a single vowel (V syllable).",
+          "An open syllable in Hebrew is composed of a Consonant, Vowel, and Consonant (CVC syllable), while a closed syllable is composed of a single vowel (V syllable).",
+          "There is no difference between open and closed syllables in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "What is the role of the 'weak dagesh' in Hebrew?",
+        "correct_answer": "The 'weak dagesh' marks the consonant as a plosive instead of a fricative, and it appears in בג''ד כּפ''ת letters when they stand at the beginning of a syllable immediately preceded by another consonant or at the beginning of a word.",
+        "incorrect_answers": [
+          "The 'weak dagesh' marks the consonant as a fricative instead of a plosive, and it appears in all Hebrew letters.",
+          "The 'weak dagesh' is a vowel sound in Hebrew.",
+          "The 'weak dagesh' has no role in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 5,
+        "question": "In Hebrew, what is ultimate stress?",
+        "correct_answer": "Ultimate stress is when the last syllable of a word is emphasized.",
+        "incorrect_answers": [
+          "Ultimate stress is when the first syllable of a word is emphasized.",
+          "Ultimate stress is when the second-to-last syllable of a word is emphasized.",
+          "Ultimate stress is rarely used in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What are the essential attributes that every noun in Hebrew has?",
+        "correct_answer": "Every noun in Hebrew has both number (singular or plural) and gender (masculine or feminine).",
+        "incorrect_answers": [
+          "Every noun in Hebrew has only number, not gender.",
+          "Every noun in Hebrew has gender, but not number.",
+          "Every noun in Hebrew does not have any attributes."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "How is the masculine singular form of a Hebrew noun typically marked?",
+        "correct_answer": "The masculine singular form of a Hebrew noun has no special ending.",
+        "incorrect_answers": [
+          "The masculine singular form of a Hebrew noun is marked by the letter 'ה' at the end.",
+          "The masculine singular form of a Hebrew noun is marked by the letter 'ים' at the end.",
+          "The masculine singular form of a Hebrew noun is marked by the letter 'וֹת' at the end."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What do the plural endings [ים] and [וֹת] indicate in Hebrew nouns?",
+        "correct_answer": "The plural ending [ים] is for masculine nouns, and [וֹת] is for feminine nouns.",
+        "incorrect_answers": [
+          "The plural ending [ים] is for masculine nouns, and [וֹת] is for feminine nouns.",
+          "The plural ending [ים] is for feminine nouns, and [וֹת] is for masculine nouns.",
+          "The plural endings [ים] and [וֹת] may be used for either gender in Hebrew nouns.",
+          "Hebrew nouns do not have plural forms."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "In Hebrew, where does the adjective sit respective to the noun it describes?",
+        "correct_answer": "In Hebrew, the adjective follows the noun it describes.",
+        "incorrect_answers": [
+          "In Hebrew, the adjective precedes the noun it describes.",
+          "In Hebrew, the adjective is placed in the middle of the noun it describes.",
+          "In Hebrew, the adjective can be placed either before or after the noun, depending on the context."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What is a special use of the adjective in Hebrew in the context of irregular nouns?",
+        "correct_answer": "The adjective in Hebrew shows the correct number and gender of the noun it matches, allowing us to determine the gender of any irregular noun it describes.",
+        "incorrect_answers": [
+          "The adjective in Hebrew has no impact on the gender or number of the noun it describes.",
+          "The adjective in Hebrew only follows natural gender nouns, not arbitrary gender nouns.",
+          "Irregular nouns in Hebrew do not have adjectives."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What does the characteristic ending [ה] indicate when it appears on a noun in Hebrew?",
+        "correct_answer": "The accented ending [ה] indicates that the noun is feminine singular.",
+        "incorrect_answers": [
+          "The accented ending [ה] indicates that the noun is masculine singular.",
+          "The accented ending [ה] indicates that the noun is masculine plural.",
+          "The accented ending [ה] has no significance in Hebrew nouns."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What are the gender and number of the noun 'גַגוֹת'?",
+        "correct_answer": "The noun 'גַגוֹת' is feminine plural in Hebrew.",
+        "incorrect_answers": [
+          "The noun 'גַגוֹת' is masculine singular in Hebrew.",
+          "The noun 'גַגוֹת' is masculine plural in Hebrew.",
+          "The noun 'גַגוֹת' is feminine singular in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What do the adjective forms 'גְדֹלִים' and 'גְדֹלוֹת' represent in Hebrew?",
+        "correct_answer": "The adjective forms 'גְדֹלִים' and 'גְדֹלוֹת' represent masculine plural and feminine plural, respectively, in Hebrew.",
+        "incorrect_answers": [
+          "The adjective forms 'גְדֹלִים' and 'גְדֹלוֹת' represent masculine singular and feminine singular, respectively, in Hebrew.",
+          "The adjective forms 'גְדֹלִים' and 'גְדֹלוֹת' represent masculine singular and masculine plural, respectively, in Hebrew.",
+          "The adjective forms 'גְדֹלִים' and 'גְדֹלוֹת' represent feminine singular and feminine plural, respectively, in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What does the noun 'אֶבֶן' represent in Hebrew?",
+        "correct_answer": "The noun 'אֶבֶן' can represent either masculine or feminine singular in Hebrew.",
+        "incorrect_answers": [
+          "The noun 'אֶבֶן' represents only masculine singular in Hebrew.",
+          "The noun 'אֶבֶן' represents only feminine singular in Hebrew.",
+          "The noun 'אֶבֶן' represents masculine plural in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 6,
+        "question": "What can we conclude about the gender of an irregular Hebrew noun by looking at its adjective?",
+        "correct_answer": "The gender of an irregular Hebrew noun can be determined by looking at the gender of its adjective.",
+        "incorrect_answers": [
+          "The gender of an irregular Hebrew noun cannot be determined by its adjective.",
+          "Irregular Hebrew nouns do not have adjectives.",
+          "The gender of an irregular Hebrew noun is always masculine."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 7,
+        "question": "What is the main characteristic of the Hebrew shewa?",
+        "correct_answer": "The main characteristic of the Hebrew shewa is that it can sometimes be silent or a moving shewa, depending on whether it opens or closes a syllable.",
+        "incorrect_answers": [
+          "The main characteristic of the Hebrew shewa is that it is always pronounced as a short [ĕ] vowel.",
+          "The main characteristic of the Hebrew shewa is that it is only used at the beginning of Hebrew words.",
+          "The main characteristic of the Hebrew shewa is that it is pronounced as a long vowel."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 7,
+        "question": "How is a moving shewa in Hebrew typically transliterated and pronounced?",
+        "correct_answer": "A moving shewa in Hebrew is transliterated as [ə] and pronounced as a very short [ĕ] vowel.",
+        "incorrect_answers": [
+          "A moving shewa in Hebrew is not transliterated or pronounced.",
+          "A moving shewa in Hebrew is transliterated as [ī] and pronounced as a long vowel.",
+          "A moving shewa in Hebrew is transliterated as [ɑ] and pronounced as a different vowel."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 7,
+        "question": "What rule determines whether a shewa in Hebrew is silent or moving?",
+        "correct_answer": "In Hebrew, a moving shewa opens a syllable, and a silent shewa closes a syllable.",
+        "incorrect_answers": [
+          "In Hebrew, a moving shewa is always at the beginning of a word, and a silent shewa is always at the end of a word.",
+          "In Hebrew, a moving shewa is always pronounced as [ĕ], and a silent shewa is always pronounced as [ə].",
+          "In Hebrew, a moving shewa is only found in masculine nouns, and a silent shewa is only found in feminine nouns."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 7,
+        "question": "Which of the following is an indicator that a shewa in Hebrew is a moving shewa?",
+        "correct_answer": "The second of two consecutive shewas (except at the end of a word) is always a moving shewa.",
+        "incorrect_answers": [
+          "A shewa at the end of a word is always a moving shewa.",
+          "A shewa under the first consonant of a word is always a silent shewa.",
+          "A shewa under any consonant that is doubled by a strong dagesh is always a moving shewa."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 7,
+        "question": "In Hebrew, what is the purpose of a silent shewa?",
+        "correct_answer": "In Hebrew, a silent shewa closes a syllable.",
+        "incorrect_answers": [
+          "In Hebrew, a silent shewa opens a syllable.",
+          "In Hebrew, a silent shewa emphasizes the pronunciation of the consonant.",
+          "In Hebrew, a silent shewa is used at the beginning of words to indicate gender."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 7,
+        "question": "What is the purpose of a moving shewa in Hebrew?",
+        "correct_answer": "A moving shewa in Hebrew opens a syllable.",
+        "incorrect_answers": [
+          "A moving shewa in Hebrew emphasizes the pronunciation of the consonant.",
+          "A moving shewa in Hebrew closes a syllable.",
+          "A moving shewa in Hebrew is used to indicate the end of a word."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 7,
+        "question": "In Hebrew, what is the function of a silent shewa in the middle of a word?",
+        "correct_answer": "In Hebrew, a silent shewa in the middle of a word usually follows a short vowel and closes the syllable.",
+        "incorrect_answers": [
+          "In Hebrew, a silent shewa in the middle of a word is always pronounced as [ĕ] and marks a separate syllable.",
+          "In Hebrew, a silent shewa in the middle of a word is always a moving shewa.",
+          "In Hebrew, a silent shewa in the middle of a word is used to emphasize the consonant it follows."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "What is the role of the root consonants in a Hebrew word?",
+        "correct_answer": "The root consonants in a Hebrew word carry the basic semantic range, or field of meaning, of the word.",
+        "incorrect_answers": [
+          "The root consonants in a Hebrew word are only used for pronunciation.",
+          "The root consonants in a Hebrew word determine the grammatical gender of the word.",
+          "The root consonants in a Hebrew word are interchangeable with any other consonants."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "Why is it important to recognize the root of a Hebrew word?",
+        "correct_answer": "Recognizing the root of a Hebrew word helps determine the general field of meaning and understand related words with the same root.",
+        "incorrect_answers": [
+          "Recognizing the root of a Hebrew word helps with pronunciation only.",
+          "Recognizing the root of a Hebrew word is not important in understanding the word.",
+          "Root recognition is only necessary for proper nouns in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "What is a mishqal in Hebrew grammar?",
+        "correct_answer": "In Hebrew grammar, a mishqal refers to a word pattern into which root consonants are inserted.",
+        "incorrect_answers": [
+          "A mishqal in Hebrew grammar refers to the set of root consonants.",
+          "A mishqal in Hebrew grammar is used to indicate the grammatical gender of a word.",
+          "A mishqal in Hebrew grammar has no specific function."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "What is the purpose of the strong dagesh in a word pattern?",
+        "correct_answer": "The strong dagesh in a word pattern doubles one of the consonants of the root.",
+        "incorrect_answers": [
+          "The strong dagesh in a word pattern indicates the grammatical gender of the word.",
+          "The strong dagesh in a word pattern is a silent marker.",
+          "The strong dagesh in a word pattern has no specific purpose."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "Which letters are commonly used as prefix letters in Hebrew nouns?",
+        "correct_answer": "The common prefix letters for nouns in Hebrew are 'מ' and 'ת'.",
+        "incorrect_answers": [
+          "The common prefix letters for nouns in Hebrew are 'ק' and 'ר'.",
+          "The common prefix letters for nouns in Hebrew are 'ב' and 'ש'.",
+          "There are no common prefix letters for nouns in Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "What is the primary function of the מקְׁטָּל pattern in Hebrew nouns?",
+        "correct_answer": "The מקְׁטָּל pattern in Hebrew nouns is often used to indicate the place where the root action happens or the focus/result of the root action.",
+        "incorrect_answers": [
+          "The מקְׁטָּל pattern in Hebrew nouns is exclusively used for professions and occupations.",
+          "The מקְׁטָּל pattern in Hebrew nouns is used to indicate abstract concepts only.",
+          "The מקְׁטָּל pattern in Hebrew nouns has no specific function."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "What is the role of the prefix 'ת' in Hebrew nouns?",
+        "correct_answer": "The prefix 'ת' is used in some Hebrew noun patterns and typically indicates a noun pattern with a feminine ending.",
+        "incorrect_answers": [
+          "The prefix 'ת' is used to indicate masculine gender in Hebrew nouns.",
+          "The prefix 'ת' is used to indicate adjectives in Hebrew nouns.",
+          "The prefix 'ת' has no specific role in Hebrew nouns."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 8,
+        "question": "Why is recognizing word patterns important in understanding Biblical Hebrew?",
+        "correct_answer": "Recognizing word patterns helps determine the word's grammatical function and can reveal related words with the same pattern.",
+        "incorrect_answers": [
+          "Recognizing word patterns is not essential in Biblical Hebrew.",
+          "Word patterns are only used for proper nouns in Biblical Hebrew.",
+          "Word patterns are not relevant to word meaning in Biblical Hebrew."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 9,
+        "question": "What is the primary function of reduced vowels in Hebrew?",
+        "correct_answer": "Reduced vowels are used to assist in the pronunciation of guttural letters (אהחע) by adding a very short vowel sound.",
+        "incorrect_answers": [
+          "Reduced vowels indicate the accentuation of Hebrew words.",
+          "Reduced vowels replace regular vowels in Hebrew words.",
+          "Reduced vowels are used in long syllables, not short ones."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 9,
+        "question": "When does the short [o] vowel, qamats-qatan, appear in Hebrew words?",
+        "correct_answer": "The qamats-qatan appears in closed, unaccented syllables.",
+        "incorrect_answers": [
+          "The qamats-qatan appears in open, accented syllables.",
+          "The qamats-qatan appears in all syllables regardless of accentuation.",
+          "The qamats-qatan is not used in Hebrew words."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 9,
+        "question": "What is the difference between qamats and qamats-qatan in Hebrew?",
+        "correct_answer": "Qamats is a long [ā] vowel, while qamats-qatan is a short [o] vowel, and they have different pronunciation and placement rules.",
+        "incorrect_answers": [
+          "Qamats and qamats-qatan are identical in Hebrew.",
+          "Qamats and qamats-qatan are only used for accented syllables.",
+          "Qamats and qamats-qatan are not part of Hebrew vowel systems."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 9,
+        "question": "Which Hebrew letters primarily use reduced vowels instead of regular shewa?",
+        "correct_answer": "The guttural letters אהחע use reduced vowels.",
+        "incorrect_answers": [
+          "The guttural letters אהחע do not use vowels at all.",
+          "All Hebrew letters use reduced vowels.",
+          "Only the consonants בגדכת use reduced vowels."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 9,
+        "question": "In Hebrew, when does a reduced vowel open a syllable?",
+        "correct_answer": "A reduced vowel always opens a syllable, similar to a moving shewa.",
+        "incorrect_answers": [
+          "A reduced vowel never opens a syllable.",
+          "A reduced vowel opens a syllable only in accented words.",
+          "A reduced vowel only closes a syllable."
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 9,
+        "question": "Which Hebrew letters are categorized as guttural letters?",
+        "correct_answer": "א, ה, ח, ע",
+        "incorrect_answers": [
+          "ב, ג, ד, כ",
+          "ז, ט, ק, ר",
+          "מ, נ, ס, פ"
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 9,
+        "question": "What is the sound of the short [o] vowel in Hebrew?",
+        "correct_answer": "The short [o] vowel is pronounced as in the English word 'open.'",
+        "incorrect_answers": [
+          "The short [o] vowel is pronounced as in the English word 'note.'",
+          "The short [o] vowel is pronounced as in the English word 'boat.'",
+          "The short [o] vowel is pronounced as in the English word 'cake.'"
+        ]
+      },
+      {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "What does the definite article in Hebrew mark?",
+        "correct_answer": "The definite article marks something or somebody specific.",
+        "incorrect_answers": [
+            "The definite article marks plural nouns.",
+            "The definite article marks indefinite nouns.",
+            "The definite article marks verbs in Hebrew."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "How is the definite article in Hebrew composed?",
+        "correct_answer": "The definite article in Hebrew is composed of the letter 'ה', the short vowel 'pataḥ', and a strong dagesh doubling the first consonant of the word.",
+        "incorrect_answers": [
+            "The definite article in Hebrew is a separate word from the noun it marks.",
+            "The definite article in Hebrew is composed of the letter 'ו', the long vowel 'û', and a weak dagesh.",
+            "The definite article in Hebrew consists of only the letter 'ה' without any additional elements."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "What happens when the definite article is added to words that begin with a shewa?",
+        "correct_answer": "In some words where the first consonant is followed by a shewa, that first consonant is not geminated (doubled by a dagesh) when the definite article is added.",
+        "incorrect_answers": [
+            "In all words with a shewa, the definite article doubles the first consonant by adding a dagesh.",
+            "Words with a shewa cannot have the definite article in Hebrew.",
+            "The definite article is always added to words with a shewa without any changes."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "What is required for nouns and adjectives to agree with each other in Hebrew?",
+        "correct_answer": "Nouns and adjectives must agree in definiteness, number, and gender.",
+        "incorrect_answers": [
+            "Nouns and adjectives must agree only in gender.",
+            "Nouns and adjectives must agree only in number.",
+            "Nouns and adjectives must agree only in definiteness."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "How is the personal name of Israel's God, 'יהוה,' typically read in Hebrew tradition?",
+        "correct_answer": "In Hebrew tradition, the personal name of Israel's God 'יהוה' is typically read as 'אֲדֹנָי' (LORD).",
+        "incorrect_answers": [
+            "In Hebrew tradition, 'יהוה' is read exactly as written without any changes.",
+            "In Hebrew tradition, 'יהוה' is typically read as 'אֱלֹהִים' (GOD).",
+            "The pronunciation of 'יהוה' in Hebrew tradition is unknown."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "What does the conjunction 'ו' become when attached to a word beginning with a shewa?",
+        "correct_answer": "The conjunction 'ו' becomes the long vowel 'וּ' when attached to a word that begins with a consonant pointed with a shewa.",
+        "incorrect_answers": [
+            "The conjunction 'ו' remains the same when attached to a word beginning with a shewa.",
+            "The conjunction 'ו' is omitted when attached to a word with a shewa.",
+            "The conjunction 'ו' becomes 'וי' when attached to a word with a shewa."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "What are the three elements that compose the regular definite article in Hebrew?",
+        "correct_answer": "The three elements that compose the regular definite article in Hebrew are the letter 'ה', the short vowel 'pataḥ', and a strong dagesh doubling the first consonant of the word.",
+        "incorrect_answers": [
+            "The three elements that compose the regular definite article in Hebrew are the letter 'ו', the long vowel 'û', and a weak dagesh.",
+            "The regular definite article consists of only the letter 'ה' without any additional elements.",
+            "The regular definite article is a separate word from the noun it marks."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 10,
+        "question": "What is the meaning of the definite article in Hebrew?",
+        "correct_answer": "The definite article in Hebrew marks something or somebody specific.",
+        "incorrect_answers": [
+            "The definite article in Hebrew marks plural nouns.",
+            "The definite article in Hebrew marks indefinite nouns.",
+            "The definite article in Hebrew marks adjectives."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "What is the effect of guttural letters on the definite article in Hebrew?",
+        "correct_answer": "Guttural letters affect the definite article by causing compensatory lengthening of the vowel or omission of the ה before ה and ח.",
+        "incorrect_answers": [
+            "Guttural letters do not affect the definite article in Hebrew.",
+            "Guttural letters cause the definite article to be doubled in Hebrew.",
+            "Guttural letters change the gender of nouns in Hebrew."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "When does the definite article not double the first consonant before guttural letters?",
+        "correct_answer": "The definite article does not double the first consonant before guttural letters when the first consonant is followed by a shewa.",
+        "incorrect_answers": [
+            "The definite article always doubles the first consonant before guttural letters.",
+            "The definite article never occurs before guttural letters.",
+            "The definite article doubles the first consonant before guttural letters regardless of pronunciation."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "What is the result of compensatory lengthening before certain guttural letters?",
+        "correct_answer": "Compensatory lengthening lengthens the vowel of the definite article to make up for the missing gemination (doubling of the consonant) before guttural letters.",
+        "incorrect_answers": [
+            "Compensatory lengthening shortens the vowel of the definite article.",
+            "Compensatory lengthening omits the definite article before guttural letters.",
+            "Compensatory lengthening only affects the definite article in certain Hebrew words."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "Which guttural letters behave differently when the definite article is added?",
+        "correct_answer": "The guttural letters ה and ח usually maintain the definite article ה without gemination (doubling).",
+        "incorrect_answers": [
+            "All guttural letters behave differently when the definite article is added.",
+            "The guttural letters א, ע, and ר usually maintain the definite article ה without gemination.",
+            "The guttural letters ה and ח double when the definite article is added."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "What vowel does the definite article take before ח, ה, or ע with an unaccented qamats?",
+        "correct_answer": "Before ח, ה, or ע with an unaccented qamats, the definite article takes the short [e] vowel (seghol).",
+        "incorrect_answers": [
+            "The definite article takes the long [ā] vowel before ח, ה, or ע with an unaccented qamats.",
+            "The definite article does not appear before ח, ה, or ע with an unaccented qamats.",
+            "The definite article takes the short [i] vowel before ח, ה, or ע with an unaccented qamats."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "What happens to the ה of the definite article when it precedes the prepositions ב, כ, or ל?",
+        "correct_answer": "When the definite article precedes the prepositions ב, כ, or ל, the ה of the definite article is omitted, but the vowel and dagesh (if applicable) remain.",
+        "incorrect_answers": [
+            "The definite article is not used before prepositions ב, כ, or ל.",
+            "The ה of the definite article is always doubled when it precedes these prepositions.",
+            "The definite article is pronounced differently before these prepositions in Hebrew."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "What is the effect of guttural letters on the definite article when no gemination is possible?",
+        "correct_answer": "In cases where no gemination (doubling) is possible with guttural letters, the vowel of the definite article is lengthened to compensate for the missing consonant.",
+        "incorrect_answers": [
+            "The definite article is omitted before guttural letters in such cases.",
+            "Guttural letters do not affect the definite article in any circumstances.",
+            "Guttural letters cause the definite article to double regardless of gemination."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "In Hebrew, how is the definite article affected when it precedes guttural letters ה and ח?",
+        "correct_answer": "The definite article usually remains ה when it precedes guttural letters ה and ח, without gemination (doubling).",
+        "incorrect_answers": [
+            "The definite article is omitted when it precedes guttural letters ה and ח.",
+            "The definite article always doubles when it precedes these guttural letters.",
+            "The definite article is pronounced differently before guttural letters ה and ח."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "What is the exception for the definite article when it precedes guttural letters with an unaccented qamats?",
+        "correct_answer": "The definite article takes the short [e] vowel (seghol) when it precedes guttural letters ח, ה, or ע with an unaccented qamats.",
+        "incorrect_answers": [
+            "There is no exception for the definite article in such cases.",
+            "The definite article takes the long [ā] vowel when it precedes these guttural letters.",
+            "The definite article is omitted before guttural letters with an unaccented qamats."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "Why does the definite article take a different form before guttural letters in Hebrew?",
+        "correct_answer": "The guttural letters (א, ע, ח, and also ר) cannot be doubled, so the definite article takes a slightly different form before them",
+        "incorrect_answers": [
+            "The definite article does not take a different form before guttural letters in Hebrew.",
+            "The definite article is omitted before guttural letters in Hebrew.",
+            "The definite article doubles the guttural letters to compensate for the absence of dagesh."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 11,
+        "question": "Which prepositions in Hebrew attach to the following word without the definite article?",
+        "correct_answer": "Single-letter prepositions like ב, כ, and ל attach to the following word without the definite article. They are typically pointed with a shewa when prefixed to a word without the definite article.",
+        "incorrect_answers": [
+            "Single-letter prepositions like ב, כ, and ל always come with the definite article.",
+            "Single-letter prepositions like ב, כ, and ל are omitted in Hebrew.",
+            "Single-letter prepositions like ב, כ, and ל are pronounced differently in Hebrew."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "What is the term for the line that connects two words in a construct chain so that they are pronounced together?",
+        "correct_answer": "The term for the line that connects two words in a construct chain is 'maqaf.'",
+        "incorrect_answers": [
+            "The term for the line that connects two words in a construct chain is 'faqah.'",
+            "The term for the line that connects two words in a construct chain is 'construct form.'",
+            "The term for the line that connects two words in a construct chain is 'vowel change.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "What happens to the vowels of the first noun in a construct chain?",
+        "correct_answer": "The vowels of the first noun in a construct chain may change from the absolute form to the construct form.",
+        "incorrect_answers": [
+            "The vowels of the first noun in a construct chain remain the same.",
+            "The vowels of the first noun in a construct chain become stronger.",
+            "The vowels of the first noun in a construct chain disappear."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "In a construct chain, what vowel change typically occurs when a long [ā] vowel is in a final closed syllable?",
+        "correct_answer": "In a construct chain, a long [ā] vowel in a final closed syllable typically changes to a short [a] vowel.",
+        "incorrect_answers": [
+            "In a construct chain, a long [ā] vowel in a final closed syllable remains the same.",
+            "In a construct chain, a long [ā] vowel in a final closed syllable changes to a long [e] vowel.",
+            "In a construct chain, a long [ā] vowel in a final closed syllable changes to a shewa."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "What is the vowel change when a long [ē] vowel is unstressed in a construct chain?",
+        "correct_answer": "When a long [ē] vowel is unstressed in a construct chain, it changes into a shewa [ə].",
+        "incorrect_answers": [
+            "When a long [ē] vowel is unstressed in a construct chain, it changes into a short [a] vowel.",
+            "When a long [ē] vowel is unstressed in a construct chain, it changes into a long [a] vowel.",
+            "When a long [ē] vowel is unstressed in a construct chain, it remains the same."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "What vowel change may occur when a long [ē] vowel is in a final closed syllable in a construct chain?",
+        "correct_answer": "When a long [ē] vowel is in a final closed syllable in a construct chain, it may change to a short [a] vowel.",
+        "incorrect_answers": [
+            "When a long [ē] vowel is in a final closed syllable in a construct chain, it always changes to a shewa.",
+            "When a long [ē] vowel is in a final closed syllable in a construct chain, it changes to a long [a] vowel.",
+            "When a long [ē] vowel is in a final closed syllable in a construct chain, it remains the same."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "What vowel change occurs to the regular feminine singular noun ending [āh] in a construct chain?",
+        "correct_answer": "The regular feminine singular noun ending [āh] changes to [at] in the construct form of a noun.",
+        "incorrect_answers": [
+            "The regular feminine singular noun ending [āh] remains the same in a construct chain.",
+            "The regular feminine singular noun ending [āh] changes to [āt] in the construct form of a noun.",
+            "The regular feminine singular noun ending [āh] changes to [ōt] in the construct form of a noun."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "In a construct chain, what does the regular masculine plural ending [îm] change to in the construct form?",
+        "correct_answer": "In a construct chain, the regular masculine plural ending [îm] changes to [ê].",
+        "incorrect_answers": [
+            "In a construct chain, the regular masculine plural ending [îm] remains the same.",
+            "In a construct chain, the regular masculine plural ending [îm] changes to [ōt].",
+            "In a construct chain, the regular masculine plural ending [îm] changes to [īm]."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "How does the regular feminine plural noun ending [ôt] behave in a construct chain?",
+        "correct_answer": "The regular feminine plural noun ending [ôt] remains unchanged in the construct form.",
+        "incorrect_answers": [
+            "The regular feminine plural noun ending [ôt] changes to [êt] in the construct form.",
+            "The regular feminine plural noun ending [ôt] changes to [ōt] in the construct form.",
+            "The regular feminine plural noun ending [ôt] disappears in the construct form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "What does the line [ ־ ] between two words indicate in a construct chain?",
+        "correct_answer": "The line [ ־ ] between two words in a construct chain indicates that the words are pronounced together and function as a single word.",
+        "incorrect_answers": [
+            "The line [ ־ ] between two words in a construct chain indicates a space between them.",
+            "The line [ ־ ] between two words in a construct chain indicates a period between them.",
+            "The line [ ־ ] between two words in a construct chain has no particular meaning."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 12,
+        "question": "In a construct chain, what typically happens to the accent of the first noun?",
+        "correct_answer": "In a construct chain, the accent of the first noun shifts to the second noun, causing the first noun to lose its stress.",
+        "incorrect_answers": [
+            "In a construct chain, the accent of the first noun becomes stronger.",
+            "In a construct chain, the accent of the first noun remains the same.",
+            "In a construct chain, the accent of the first noun disappears."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 13,
+        "question": "What is a plural construct chain in Hebrew grammar?",
+        "correct_answer": "A plural construct chain in Hebrew grammar is a grammatical construction used to combine two or more plural nouns where one noun describes or qualifies another.",
+        "incorrect_answers": [
+            "A plural construct chain is a sentence that uses multiple plural nouns but doesn't necessarily combine them.",
+            "A plural construct chain is a construct used in singular nouns but not plural nouns.",
+            "A plural construct chain is a type of singular noun in Hebrew grammar."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 13,
+        "question": "In a plural construct chain, how are the plural nouns typically arranged?",
+        "correct_answer": "In a plural construct chain, the plural nouns are typically arranged with the central noun coming before the describing noun.",
+        "incorrect_answers": [
+            "In a plural construct chain, the plural nouns are typically arranged with the describing noun coming before the central noun.",
+            "In a plural construct chain, the plural nouns are usually arranged with no specific order.",
+            "In a plural construct chain, the plural nouns are not arranged together."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 13,
+        "question": "What does the maqaf [ ־ ] symbol indicate in a plural construct chain?",
+        "correct_answer": "The maqaf [ ־ ] symbol in a plural construct chain indicates that the words are pronounced together and function as a single word.",
+        "incorrect_answers": [
+            "The maqaf [ ־ ] symbol indicates a space between the words in a plural construct chain.",
+            "The maqaf [ ־ ] symbol marks the end of a sentence in a plural construct chain.",
+            "The maqaf [ ־ ] symbol has no specific meaning in a plural construct chain."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 13,
+        "question": "How does the accent typically behave in a plural construct chain with regard to the central noun?",
+        "correct_answer": "In a plural construct chain, the accent of the central noun typically shifts to the second noun, causing the central noun to lose its stress.",
+        "incorrect_answers": [
+            "In a plural construct chain, the accent of the central noun becomes stronger.",
+            "In a plural construct chain, the accent of the central noun remains the same.",
+            "In a plural construct chain, the accent of the central noun disappears."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 13,
+        "question": "What is the role of a plural construct chain in Hebrew grammar?",
+        "correct_answer": "The role of a plural construct chain in Hebrew grammar is to indicate a grammatical relationship where one plural noun modifies or qualifies another within a phrase or sentence.",
+        "incorrect_answers": [
+            "The role of a plural construct chain is to create singular nouns in Hebrew grammar.",
+            "The role of a plural construct chain is to form independent clauses.",
+            "The role of a plural construct chain is to separate nouns in a sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 13,
+        "question": "What is the construct form of a central noun in a plural construct chain?",
+        "correct_answer": "The construct form of a central noun in a plural construct chain is the form it takes when it loses its accent and is often accompanied by a change in vowel quality.",
+        "incorrect_answers": [
+            "The construct form of a central noun in a plural construct chain is the same as its absolute form.",
+            "The construct form of a central noun in a plural construct chain is an entirely different word.",
+            "The construct form of a central noun in a plural construct chain is used only in singular chains."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 14,
+        "question": "What is the term for personal pronouns that stand apart as individual words, usually as the subject of a sentence?",
+        "correct_answer": " 'Independent personal pronouns.'",
+        "incorrect_answers": [
+            "Connected nouns.",
+            "Gender-specific pronouns.",
+            "Modifier nouns."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 14,
+        "question": "Which pronouns are considered 'common' because they are not gender-specific?",
+        "correct_answer": "The first person pronouns אֲנִי/ אָנֹכִי and אֲנַחְנו are considered 'common' because they are not gender-specific.",
+        "incorrect_answers": [
+            "The second person pronouns אַתָה and אַׂ ת are considered 'common.'",
+            "The third person pronouns הוא and הִיא are considered 'common.'",
+            "All Hebrew pronouns are considered 'common.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 14,
+        "question": "In Hebrew, how are the two variants of the first person singular pronoun 'I' translated?",
+        "correct_answer": "In Hebrew, the two variants of the first person singular pronoun 'I,' אֲנִי and אָנֹכִי, are translated the same.",
+        "incorrect_answers": [
+            "The two variants of 'I' are pronounced differently and have distinct meanings.",
+            "One variant is translated 'I' while the other is translated 'you.'",
+            "The translation of 'I' depends on the region in which it is used."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 14,
+        "question": "What is the form of the second person singular pronoun 'you' (m.s.)?",
+        "correct_answer": "The form of the second person singular pronoun 'you' (m.s.) that is marked by a dagesh and a shewa is אַתָה",
+        "incorrect_answers": [
+            "The form of 'you' (m.s.) is אַת without any additional markings.",
+            "The form of 'you' (m.s.) is אַתְ with a different vowel.",
+            "The form of 'you' (m.s.) is entirely different."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 14,
+        "question": "Are the masculine plural forms of Hebrew pronouns used only for entirely masculine groups?",
+        "correct_answer": "No, the masculine plural forms of Hebrew pronouns are used both for groups that are entirely masculine and for groups that include both masculine and feminine individuals.",
+        "incorrect_answers": [
+            "Yes, the masculine plural forms are used only for entirely masculine groups.",
+            "No, the masculine plural forms are not used in Hebrew pronouns.",
+            "The masculine plural forms are used only for entirely feminine groups."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 14,
+        "question": "Do Hebrew feminine plural forms of pronouns have a specific rule for usage?",
+        "correct_answer": "Yes, Hebrew feminine plural forms of pronouns are used when every member of the group is feminine.",
+        "incorrect_answers": [
+            "No, Hebrew feminine plural forms of pronouns have no specific rule for usage.",
+            "Hebrew feminine plural forms of pronouns are never used.",
+            "Hebrew feminine plural forms of pronouns are used for entirely masculine groups."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 14,
+        "question": "What are the two variants of the third person plural pronoun (they) and where are they commonly used?",
+        "correct_answer": "The two variants of the third person plural pronoun 'they' are הֵם and הֵמָה.  הֵם is commonly used in the Torah, while הֵמָה is used more in Samuel and some of the poetic books.",
+        "incorrect_answers": [
+            "The two variants of 'they' have distinct pronunciations.",
+            "הֵם is commonly used in Samuel, while הֵמָה is used in the Torah.",
+            "The pronunciation of 'they' depends on the region in which it is used."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What are pronominal suffixes?",
+        "correct_answer": "Pronominal suffixes are forms of pronouns that are attached to the end of a noun or preposition.",
+        "incorrect_answers": [
+            "Pronominal suffixes are independent personal pronouns.",
+            "Pronominal suffixes are constructs in Hebrew grammar.",
+            "Pronominal suffixes are used to indicate gender in nouns."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What is the form of the 1cp suffix, meaning 'us,' and how is it pronounced?",
+        "correct_answer": "The form of the 1cp suffix meaning 'us' is נוּ -ֵ, and it is pronounced as [-ḗnû].",
+        "incorrect_answers": [
+            "The form of the 1cp suffix is נוּהּ -ָ, and it is pronounced as [-nūah].",
+            "The form of the 1cp suffix is נוּ -ֵ, and it is pronounced as [-ḗnī].",
+            "The form of the 1cp suffix is נוּ -ֵ, and it is pronounced as [-ḗn]."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What happens to a noun in construct form when a pronominal suffix beginning with a consonant is added?",
+        "correct_answer": "A shewa appears under the final letter of the noun in construct form.",
+        "incorrect_answers": [
+            "The construct form of the noun remains unchanged when a pronominal suffix is added.",
+            "A pronominal suffix removes the final letter of the noun in construct form.",
+            "A dagesh appears under the final letter of the noun in construct form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "How is the mappiq in the 3fs suffix (הּ-ָ) pronounced, and what does it indicate?",
+        "correct_answer": "The letter is pronounced as an aspirated [h] sound and indicates that the ה at the end of a word is actually a consonant, not just a mater lectionis.",
+        "incorrect_answers": [
+            "The mappiq is pronounced as [p] and indicates the gender of the noun.",
+            "The mappiq is pronounced as a vowel and indicates the tense of the verb.",
+            "The mappiq is silent and has no pronunciation or indication."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What forms do the pronominal suffixes attach to?",
+        "correct_answer": "The pronominal suffixes attach to singular nouns in their construct form.",
+        "incorrect_answers": [
+            "The pronominal suffixes attach to plural nouns in their absolute form.",
+            "The pronominal suffixes attach to singular nouns in their absolute form.",
+            "The pronominal suffixes attach to prepositions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What is the form of the 3ms pronoun suffix?",
+        "correct_answer": "The form of the 3ms pronoun suffix is סוּסוֹ (סוּס הוא).",
+        "incorrect_answers": [
+            "The form of the 3ms pronoun suffix is סוּסהּ (סוּס הִיא).",
+            "The form of the 3ms pronoun suffix is סוּסה (סוּס הּ).",
+            "The form of the 3ms pronoun suffix is סוּסוּ (סוּס הוא)."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What is the form of the 2mp pronoun suffix?",
+        "correct_answer": "The form of the 2mp pronoun suffix is סוּסֶם (סוּס אַתֶּם).",
+        "incorrect_answers": [
+            "The form of the 2mp pronoun suffix is סוּסכם (סוּס אַׂ תֶם).",
+            "The form of the 2mp pronoun suffix is סוּסֵם (סוּס אַתֶּם).",
+            "The form of the 2mp pronoun suffix is סוּסי (סוּס אַתֶּם)."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What is the form of the 3fp pronoun suffix?",
+        "correct_answer": "The form of the 3fp pronoun suffix is סוּסן (סוּס הֵן).",
+        "incorrect_answers": [
+            "The form of the 3fp pronoun suffix is סוּסי (סוּס הֵם).",
+            "The form of the 3fp pronoun suffix is סוּסֶם (סוּס הֵם).",
+            "The form of the 3fp pronoun suffix is סוּסכֶם (סוּס הֵם)."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What does the 2fs pronoun suffix indicate?",
+        "correct_answer": "The 2fs pronoun suffix indicates 'your' (f.s.).",
+        "incorrect_answers": [
+            "The 2fs pronoun suffix indicates 'my' (f.s.).",
+            "The 2fs pronoun suffix indicates 'his' (f.s.).",
+            "The 2fs pronoun suffix indicates 'our' (f.s.)."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 15,
+        "question": "What are pronominal suffixes primarily used for?",
+        "correct_answer": "Pronominal suffixes are primarily used to indicate possession or relationship.",
+        "incorrect_answers": [
+            "Pronominal suffixes are primarily used to form questions.",
+            "Pronominal suffixes are primarily used to indicate tense in verbs.",
+            "Pronominal suffixes are primarily used for adjectives."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "What does the basic rule for definiteness in construct chains state?",
+        "correct_answer": "The basic rule for definiteness in construct chains states that a noun in construct form cannot take the definite article.",
+        "incorrect_answers": [
+            "The basic rule for definiteness in construct chains states that all nouns in a construct chain must be definite.",
+            "The basic rule for definiteness in construct chains states that all nouns in construct form are definite.",
+            "The basic rule for definiteness in construct chains states that only the final noun in a construct chain can be definite."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "How is a construct chain made definite in Hebrew?",
+        "correct_answer": "In Hebrew, a construct chain is made definite by adding the definite article to the word in the absolute form, typically the final noun in the chain.",
+        "incorrect_answers": [
+            "A construct chain cannot be made definite in Hebrew.",
+            "A construct chain is made definite by using a specific construct form.",
+            "The definite article can be added to any noun in the construct chain."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "What part of a construct chain in Hebrew is considered definite when the definite article is added?",
+        "correct_answer": "When the definite article is added, the entire construct chain in Hebrew is considered definite.",
+        "incorrect_answers": [
+            "Only the first noun in the construct chain is considered definite when the definite article is added.",
+            "Only the last noun in the construct chain is considered definite when the definite article is added.",
+            "Adding the definite article to a construct chain does not affect its definiteness."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "What happens when a construct chain contains a proper noun in its absolute form?",
+        "correct_answer": "When a construct chain contains a proper noun in its absolute form, it is typically understood to be definite.",
+        "incorrect_answers": [
+            "The proper noun in the construct chain becomes indefinite.",
+            "The entire construct chain becomes indefinite.",
+            "Proper nouns cannot be used in construct chains."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "How does Hebrew handle ambiguity when a proper noun is part of a construct chain?",
+        "correct_answer": "Hebrew typically understands a construct chain with a proper noun in its absolute form as definite, but context may determine whether it is truly definite or indefinite.",
+        "incorrect_answers": [
+            "Hebrew always interprets a construct chain with a proper noun as indefinite.",
+            "Hebrew always interprets a construct chain with a proper noun as definite.",
+            "Hebrew avoids using proper nouns in construct chains to prevent ambiguity."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "What construction does Hebrew use to specify the first part of a construct chain as indefinite when it ends in a proper noun?",
+        "correct_answer": "To specify the first part of a construct chain as indefinite when it ends in a proper noun, Hebrew uses a different construction: [noun] ל [proper noun].",
+        "incorrect_answers": [
+            "To specify the first part of a construct chain as indefinite, Hebrew uses the definite article.",
+            "To specify the first part of a construct chain as indefinite, Hebrew uses a dagesh.",
+            "Hebrew cannot specify the first part of a construct chain as indefinite when it ends in a proper noun."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "What diacritic point appears in the preposition ל when it is prefixed to a word with a shewa?",
+        "correct_answer": "When the preposition ל is prefixed to a word that begins with a shewa, the shewa changes to a hireq (short [i] vowel).",
+        "incorrect_answers": [
+            "When the preposition ל is prefixed to a word with a shewa, no change occurs.",
+            "When the preposition ל is prefixed to a word with a shewa, the shewa changes to a patach (short [a] vowel).",
+            "The preposition ל cannot be prefixed to a word with a shewa."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "What is the typical translation of בֵית־הַּמֶלֶךְ?",
+        "correct_answer": "The typical translation of בֵית־הַּמֶלֶךְ is 'the house of the king.'",
+        "incorrect_answers": [
+            "The typical translation of בֵית־הַּמֶלֶךְ is 'a house of a king.'",
+            "The typical translation of בֵית־הַּמֶלֶךְ is 'king's house.'",
+            "The typical translation of בֵית־הַּמֶלֶךְ is 'house of a king.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "How does the definite article affect the definiteness of a construct chain?",
+        "correct_answer": "Adding the definite article to the final noun of a construct chain makes the entire construct chain definite.",
+        "incorrect_answers": [
+            "Adding the definite article to the first noun of a construct chain makes the entire construct chain definite.",
+            "Adding the definite article to a construct chain has no effect on its definiteness.",
+            "A construct chain cannot be made definite with the definite article."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "How does Hebrew indicate definiteness in a construct chain that ends with a proper noun?",
+        "correct_answer": "Hebrew typically interprets a construct chain with a proper noun in its absolute form as definite, but context may determine whether it is truly definite or indefinite.",
+        "incorrect_answers": [
+            "Hebrew never interprets a construct chain with a proper noun as definite.",
+            "Hebrew interprets a construct chain with a proper noun as indefinite by default.",
+            "Hebrew always uses the definite article in such construct chains."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 16,
+        "question": "What construction does Hebrew use to specify the first part of a construct chain as indefinite when it ends in a proper noun?",
+        "correct_answer": "Hebrew uses the construction [noun] ל [proper noun] to specify the first part of a construct chain as indefinite when it ends in a proper noun.",
+        "incorrect_answers": [
+            "Hebrew uses the definite article to specify the first part of a construct chain as indefinite when it ends in a proper noun.",
+            "Hebrew does not have a way to specify the first part of a construct chain as indefinite in such cases.",
+            "Hebrew uses a different construct form to specify the first part as indefinite."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "What is a characteristic phenomenon of the Hebrew language related to sentence structure?",
+        "correct_answer": "The common use of nominal sentences, which do not require a verb, is a characteristic phenomenon of the Hebrew language.",
+        "incorrect_answers": [
+            "The extensive use of complex sentence structures is a characteristic phenomenon of the Hebrew language.",
+            "The absence of nominal sentences is a characteristic phenomenon of the Hebrew language.",
+            "The use of multiple verbs in a sentence is a characteristic phenomenon of the Hebrew language."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "What is the most basic type of nominal sentence in Hebrew?",
+        "correct_answer": "The most basic type of nominal sentence in Hebrew is created by juxtaposing two nouns or a noun and an adjective, where one noun is the subject and the other is the predicate.",
+        "incorrect_answers": [
+            "The most basic type of nominal sentence in Hebrew is a sentence without a subject.",
+            "The most basic type of nominal sentence in Hebrew involves complex sentence structures.",
+            "The most basic type of nominal sentence in Hebrew contains a verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "What is the key rule for creating a nominal sentence in Hebrew?",
+        "correct_answer": "A nominal sentence is created in Hebrew when two absolute nouns or a noun and an adjective with different levels of definiteness are juxtaposed.",
+        "incorrect_answers": [
+            "A nominal sentence is created in Hebrew when two absolute nouns or a noun and an adjective with the same level of definiteness are juxtaposed.",
+            "A nominal sentence is created in Hebrew when a noun and an adjective are combined, regardless of their level of definiteness.",
+            "A nominal sentence is created in Hebrew only when proper nouns are used."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "What is the role of the definite article in nominal sentences?",
+        "correct_answer": "The definite article can make a noun definite, creating a nominal sentence when combined with an indefinite adjective or noun.",
+        "incorrect_answers": [
+            "The definite article is not used in nominal sentences.",
+            "The definite article makes both nouns in a nominal sentence definite.",
+            "The definite article is used only with proper nouns in nominal sentences."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "In Hebrew nominal sentences, how does an adjective agree with the noun it modifies?",
+        "correct_answer": "When a noun is paired with an adjective in a nominal sentence, the adjective agrees with the noun in number and gender.",
+        "incorrect_answers": [
+            "The adjective does not need to agree with the noun in a nominal sentence.",
+            "The adjective always takes the masculine form in a nominal sentence.",
+            "The adjective always takes the feminine form in a nominal sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "When two nouns are juxtaposed in a nominal sentence, do they retain their gender and number?",
+        "correct_answer": "When two nouns are juxtaposed in a nominal sentence, each retains its own gender and number.",
+        "incorrect_answers": [
+            "The nouns lose their gender and number when juxtaposed in a nominal sentence.",
+            "The nouns always agree in gender and number when juxtaposed in a nominal sentence.",
+            "Only the first noun retains its gender and number in a nominal sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "In the phrase 'בֵית האִישׁ גדוֹל,' which part is considered a single definite unit?",
+        "correct_answer": "In the phrase 'בֵית האִישׁ גדוֹל,' 'בֵית האִישׁ' is considered a single definite unit.",
+        "incorrect_answers": [
+            "In the phrase 'בֵית האִישׁ גדוֹל,' 'האִישׁ גדוֹל' is considered a single definite unit.",
+            "In the phrase 'בֵית האִישׁ גדוֹל,' 'גדוֹל' is considered a single definite unit.",
+            "In the phrase 'בֵית האִישׁ גדוֹל,' each word is a separate definite unit."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "What is the role of personal pronouns in nominal sentences?",
+        "correct_answer": "Personal pronouns make a nominal sentence definite and specific, creating a nominal sentence when combined with any noun or adjective.",
+        "incorrect_answers": [
+            "Personal pronouns do not affect the definiteness of a nominal sentence.",
+            "Personal pronouns make the entire sentence indefinite in a nominal sentence.",
+            "Personal pronouns can only be combined with proper nouns in nominal sentences."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "What type of pronoun is more definite than personal pronouns?",
+        "correct_answer": "Demonstrative pronouns are more definite than personal pronouns.",
+        "incorrect_answers": [
+            "Interrogative pronouns are more definite than personal pronouns.",
+            "Relative pronouns are more definite than personal pronouns.",
+            "Personal pronouns are the most definite pronouns."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "In a nominal sentence, what happens when a demonstrative pronoun is combined with a noun or adjective?",
+        "correct_answer": "A nominal sentence is created when a demonstrative pronoun is combined with any noun or adjective.",
+        "incorrect_answers": [
+            "A nominal sentence is not created when a demonstrative pronoun is combined with a noun or adjective.",
+            "A demonstrative pronoun only makes the following noun definite in a nominal sentence.",
+            "A demonstrative pronoun can only be combined with proper nouns in a nominal sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 17,
+        "question": "In the phrase 'אֲנִי הַמֶלֶךְ,' is it a nominal sentence or a simple phrase?",
+        "correct_answer": "'אֲנִי הַמֶלֶךְ' is a nominal sentence.",
+        "incorrect_answers": [
+            "'אֲנִי הַמֶלֶךְ' is a simple phrase.",
+            "'אֲנִי הַמֶלֶךְ' is a complex sentence.",
+            "'אֲנִי הַמֶלֶךְ' can be either a nominal sentence or a simple phrase."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "What is the purpose of an adverbial predicate in a nominal sentence?",
+        "correct_answer": "An adverbial predicate in a nominal sentence, often a preposition, introduces a condition or location into the sentence.",
+        "incorrect_answers": [
+            "An adverbial predicate in a nominal sentence serves as the subject of the sentence.",
+            "An adverbial predicate in a nominal sentence functions as the predicate, indicating existence.",
+            "An adverbial predicate in a nominal sentence has no specific purpose."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "What is an example of an adverb that can serve as an adverbial predicate in a nominal sentence?",
+        "correct_answer": "שָׁם (there)",
+        "incorrect_answers": [
+            "מִי (who)",
+            "כ- (like)",
+            "אַחֲרי (after)"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "How does the Hebrew word ישׁ function in a nominal sentence?",
+        "correct_answer": "The Hebrew word ישׁ serves as an existential predicate in a nominal sentence.",
+        "incorrect_answers": [
+            "The Hebrew word ישׁ functions as a verb in a nominal sentence.",
+            "The Hebrew word ישׁ serves as a subject in a nominal sentence.",
+            "The Hebrew word ישׁ is not used in nominal sentences."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "What is the Hebrew word אין used for in a nominal sentence?",
+        "correct_answer": "The Hebrew word אין serves as an adverb of non-existence, functioning as the predicate in a negative nominal sentence.",
+        "incorrect_answers": [
+            "The Hebrew word אין is used to introduce the subject in a nominal sentence.",
+            "The Hebrew word אין functions as an interrogative pronoun in a nominal sentence.",
+            "The Hebrew word אין is used to indicate location in a nominal sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "What does the interrogative pronoun מִי typically introduce in a nominal sentence?",
+        "correct_answer": "The interrogative pronoun מִי typically introduces the subject of a nominal sentence, asking 'who' or 'whom.'",
+        "incorrect_answers": [
+            "The interrogative pronoun מִי typically introduces the predicate of a nominal sentence.",
+            "The interrogative pronoun מִי introduces a location or condition in a nominal sentence.",
+            "The interrogative pronoun מִי has no specific role in a nominal sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "In a nominal sentence, what happens when both the subject and predicate show no difference in the level of definiteness?",
+        "correct_answer": "In such cases, the reader must determine the subject and predicate based on context and common sense.",
+        "incorrect_answers": [
+            "In such cases, the subject and predicate are typically the same word.",
+            "In such cases, the subject and predicate are always interchangeable.",
+            "In such cases, the nominal sentence is not grammatically correct."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "Which of the following adverbs introduces a condition or location in a nominal sentence?",
+        "correct_answer": "עַל (on/upon) introduces a condition or location in a nominal sentence.",
+        "incorrect_answers": [
+            "מִן (from)",
+            "פֹּה (here)",
+            "בֵין (between)"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "What is the purpose of the Hebrew word 'אֵין' in a negative nominal sentence?",
+        "correct_answer": "The Hebrew word 'אֵין' functions as an adverb of non-existence, indicating the absence of something in a nominal sentence.",
+        "incorrect_answers": [
+            "The Hebrew word 'אֵין' introduces the subject of a negative nominal sentence.",
+            "The Hebrew word 'אֵין' serves as a verb in a negative nominal sentence.",
+            "The Hebrew word 'אֵין' indicates the presence of something in a negative nominal sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "What does the Hebrew interrogative pronoun אַיֵּה typically ask in a nominal sentence?",
+        "correct_answer": "The Hebrew interrogative pronoun אַיֵּה typically asks about the location, meaning 'where,' in a nominal sentence.",
+        "incorrect_answers": [
+            "The Hebrew interrogative pronoun אַיֵּה typically asks about the subject, meaning 'who,' in a nominal sentence.",
+            "The Hebrew interrogative pronoun אַיֵּה typically asks about the predicate, meaning 'what,' in a nominal sentence.",
+            "The Hebrew interrogative pronoun אַיֵּה is not used in nominal sentences."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 18,
+        "question": "What does the Hebrew interrogative pronoun מָה typically ask in a nominal sentence?",
+        "correct_answer": "The Hebrew interrogative pronoun מָה typically asks about the nature or identity, meaning 'what,' in a nominal sentence.",
+        "incorrect_answers": [
+            "The Hebrew interrogative pronoun מָה typically asks about the subject, meaning 'who,' in a nominal sentence.",
+            "The Hebrew interrogative pronoun מָה typically asks about the location, meaning 'where,' in a nominal sentence.",
+            "The Hebrew interrogative pronoun מָה is not used in nominal sentences."
+        ]
+    },    
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "In Hebrew-English translation, what should be done when Hebrew uses a preposition not used in English?",
+        "correct_answer": "When Hebrew uses a preposition not used in English, it may be necessary to use an English preposition in the translation, especially if the relationship needs clarification.",
+        "incorrect_answers": [
+            "No prepositions should be used in the translation to keep it concise.",
+            "Hebrew prepositions should be omitted in the translation to maintain accuracy.",
+            "The translation should always exactly mirror the Hebrew, even if it results in confusion."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "What is the term for a suffix on words that express a person's nationality?",
+        "correct_answer": "Gentilic suffix",
+        "incorrect_answers": [
+            "Gentile suffix",
+            "Ethnic suffix",
+            "Nationality marker"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "What is the full paradigm of the gentilic suffix for masculine singular?",
+        "correct_answer": "The full paradigm of the gentilic suffix for masculine singular is י -ִ (e.g. כְׁנַעֲנִי -ִ).",
+        "incorrect_answers": [
+            "The full paradigm of the gentilic suffix for masculine singular is ת -ִ (e.g. כְׁנַעֲנִי -ִ).",
+            "The full paradigm of the gentilic suffix for masculine singular is ם -ִ (e.g. כְׁנַעֲנִי -ִ).",
+            "The full paradigm of the gentilic suffix for masculine singular is ה -ִ (e.g. כְׁנַעֲנִי -ִ)."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "What is the full paradigm of the gentilic suffix for feminine singular?",
+        "correct_answer": "The full paradigm of the gentilic suffix for feminine singular includes יּה / -ִ י ת -ִ (e.g. כְׁנַעֲנִיּ וֹת -ִ).",
+        "incorrect_answers": [
+            "The full paradigm of the gentilic suffix for feminine singular includes ת -ִ (e.g. כְׁנַעֲנִי -ִ).",
+            "The full paradigm of the gentilic suffix for feminine singular includes ה -ִ (e.g. כְׁנַעֲנִי -ִ).",
+            "The full paradigm of the gentilic suffix for feminine singular includes מ -ִ (e.g. כְׁנַעֲנִי -ִ)."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "What is the purpose of using an English preposition when translating a Hebrew phrase that lacks one?",
+        "correct_answer": "Using an English preposition in translation can help clarify the relationship between elements in the Hebrew phrase that lacks a preposition.",
+        "incorrect_answers": [
+            "Using an English preposition is a strict requirement in all cases to ensure an accurate translation.",
+            "Using an English preposition in translation is never necessary as Hebrew is more concise.",
+            "Using an English preposition may complicate the translation unnecessarily."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "What term is used for prepositions in Hebrew that are not used in English translation?",
+        "correct_answer": "Prepositions in Hebrew that are not used in English translation are often referred to as untranslatable prepositions.",
+        "incorrect_answers": [
+            "Extraneous prepositions",
+            "Foreign prepositions",
+            "Hebrew-specific prepositions"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "What is the role of an interrogative pronoun in a nominal sentence?",
+        "correct_answer": "An interrogative pronoun at the beginning of a nominal sentence introduces a question and specifies the subject.",
+        "incorrect_answers": [
+            "An interrogative pronoun emphasizes the predicate in a nominal sentence.",
+            "An interrogative pronoun serves as the object of the verb in a nominal sentence.",
+            "An interrogative pronoun has no specific role in a nominal sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 19,
+        "question": "In cases where nominal sentences are unmarked, what determines the subject and predicate?",
+        "correct_answer": "In unmarked nominal sentences, the subject and predicate are determined by context and common sense.",
+        "incorrect_answers": [
+            "In unmarked nominal sentences, the subject is always the more definite element.",
+            "In unmarked nominal sentences, the predicate is always the more definite element.",
+            "In unmarked nominal sentences, the subject and predicate are interchangeable."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What is the basic pattern we are learning for Hebrew verbs in Course A?",
+        "correct_answer": "The basic pattern for Hebrew verbs in Course A is the 'Qal' form.",
+        "incorrect_answers": [
+            "The basic pattern for Hebrew verbs in Course A is the 'Past' form.",
+            "The basic pattern for Hebrew verbs in Course A is the 'Perfect' form.",
+            "The basic pattern for Hebrew verbs in Course A is the 'Suffixed' form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What is another name for the 'Qatal' form?",
+        "correct_answer": "The 'Qatal' form is also known as the 'suffix conjugation' due to the subject pronoun being attached as a suffix.",
+        "incorrect_answers": [
+            "The 'Qatal' form is also known as the 'prefix conjugation' due to the subject pronoun being attached as a prefix.",
+            "The 'Qatal' form is also known as the 'perfect tense' due to its association with completed actions.",
+            "The 'Qatal' form is also known as the 'future tense' due to its association with actions in the future."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "How do we translate the 'Qatal' form in this course?",
+        "correct_answer": "In this course, we translate the 'Qatal' form as a simple past tense.",
+        "incorrect_answers": [
+            "In this course, we translate the 'Qatal' form as a future tense.",
+            "In this course, we translate the 'Qatal' form as a present tense.",
+            "In this course, we translate the 'Qatal' form as an imperative tense."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What is the subject of the verb 'Qatal' often called in Hebrew?",
+        "correct_answer": "The subject of the verb 'Qatal' is often called a subject pronoun.",
+        "incorrect_answers": [
+            "The subject of the verb 'Qatal' is often called an object pronoun.",
+            "The subject of the verb 'Qatal' is often called a personal pronoun.",
+            "The subject of the verb 'Qatal' is often called a demonstrative pronoun."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What is the primary reason for not using a separate subject pronoun in Hebrew verbs?",
+        "correct_answer": "The primary reason for not using a separate subject pronoun in Hebrew verbs is that the subject is specified by the verbal suffix.",
+        "incorrect_answers": [
+            "The primary reason for not using a separate subject pronoun in Hebrew verbs is to save space in writing.",
+            "The primary reason for not using a separate subject pronoun in Hebrew verbs is to create ambiguity.",
+            "The primary reason for not using a separate subject pronoun in Hebrew verbs is to confuse the reader."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What is the 3fs suffix on the Qatal verb the same as?",
+        "correct_answer": "The 3fs suffix on the Qatal verb is the same as the feminine singular suffix seen on nouns and adjectives.",
+        "incorrect_answers": [
+            "The 3fs suffix on the Qatal verb is the same as the masculine plural suffix.",
+            "The 3fs suffix on the Qatal verb is the same as the first person singular suffix.",
+            "The 3fs suffix on the Qatal verb is the same as the third person plural suffix."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "Which form of the Qatal verb uses a penultimate (second-to-last) accent?",
+        "correct_answer": "The 1cs, 2ms, and 1cp forms of the Qatal verb use a penultimate (second-to-last) accent.",
+        "incorrect_answers": [
+            "The 3ms form of the Qatal verb uses a penultimate accent.",
+            "The 3fs form of the Qatal verb uses a penultimate accent.",
+            "The 3mp form of the Qatal verb uses a penultimate accent."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What is the accent pattern for the 3ms form of the Qatal verb?",
+        "correct_answer": "The 3ms form of the Qatal verb is accented on the last syllable.",
+        "incorrect_answers": [
+            "The 3ms form of the Qatal verb is accented on the second-to-last syllable.",
+            "The 3ms form of the Qatal verb is accented on the first syllable.",
+            "The 3ms form of the Qatal verb has no accent."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What type of suffix is used in the 3mp form of the Qatal verb?",
+        "correct_answer": "The 3mp form of the Qatal verb uses a 'common' suffix, which is used for masculine and/or feminine groups.",
+        "incorrect_answers": [
+            "The 3mp form of the Qatal verb uses a masculine suffix.",
+            "The 3mp form of the Qatal verb uses a feminine suffix.",
+            "The 3mp form of the Qatal verb uses a neuter suffix."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "In the Qatal verb, which forms have subject pronouns that are similar to the corresponding independent pronouns?",
+        "correct_answer": "In the Qatal verb, the 1cs, 1cp, and 2ms forms have subject pronouns that are similar to the corresponding independent pronouns.",
+        "incorrect_answers": [
+            "In the Qatal verb, the 3ms form has a subject pronoun that is similar to the corresponding independent pronoun.",
+            "In the Qatal verb, the 3fs form has a subject pronoun that is similar to the corresponding independent pronoun.",
+            "In the Qatal verb, the 3mp form has a subject pronoun that is similar to the corresponding independent pronoun."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What is the 3fs form of the Qatal verb accented on?",
+        "correct_answer": "The 3fs form of the Qatal verb is accented on the last syllable.",
+        "incorrect_answers": [
+            "The 3fs form of the Qatal verb is accented on the second-to-last syllable.",
+            "The 3fs form of the Qatal verb is accented on the first syllable.",
+            "The 3fs form of the Qatal verb has no accent."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 20,
+        "question": "What accent pattern does the 1cp form of the Qatal verb use?",
+        "correct_answer": "The 1cp form of the Qatal verb has a penultimate (second-to-last) accent.",
+        "incorrect_answers": [
+            "The 1cp form of the Qatal verb has a last-syllable accent.",
+            "The 1cp form of the Qatal verb has a first-syllable accent.",
+            "The 1cp form of the Qatal verb has no accent."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "What is one of the notable characteristics of the Hebrew verbal system in contrast to the English system?",
+        "correct_answer": "One of the notable characteristics of the Hebrew verbal system is its 'relative' tense system as opposed to the 'absolute' tense system in English.",
+        "incorrect_answers": [
+            "The Hebrew verbal system is identical to the English verbal system in every aspect.",
+            "The Hebrew verbal system has more tenses and forms than the English system.",
+            "The Hebrew verbal system uses only one form for all tenses, while English uses multiple forms."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "How does the Hebrew Qatal form derive its meaning?",
+        "correct_answer": "The Hebrew Qatal form derives its meaning from its contextual relationship to other verbs around it, as it is part of a 'relative' tense system.",
+        "incorrect_answers": [
+            "The Hebrew Qatal form has an absolute temporal meaning unrelated to context.",
+            "The Hebrew Qatal form derives its meaning solely from the subject pronoun attached to it.",
+            "The Hebrew Qatal form can be translated without any consideration of context."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "In direct speech, when is the Qatal verb typically used?",
+        "correct_answer": "In direct speech, the Qatal verb is typically used to express an action that occurred before the time of speaking, making it past relative to the present time of the speaker.",
+        "incorrect_answers": [
+            "In direct speech, the Qatal verb is used to express an action occurring at the time of speaking.",
+            "In direct speech, the Qatal verb is used to express an action that will occur after the time of speaking, making it future relative to the present time of the speaker.",
+            "In direct speech, the Qatal verb can be used for actions at any time without regard to their relation to the speaker's present time."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "What is the function of the Hebrew word אֵת in a sentence?",
+        "correct_answer": "The Hebrew word אֵת is used to mark the definite direct object of the verb.",
+        "incorrect_answers": [
+            "The Hebrew word אֵת marks the subject of the verb in a sentence.",
+            "The Hebrew word אֵת marks the prepositional phrase in a sentence.",
+            "The Hebrew word אֵת marks the verb tense in a sentence."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "How do we translate the definite direct object marker אֵת in Hebrew sentences?",
+        "correct_answer": "We do not translate the definite direct object marker אֵת into English because there is no equivalent in English.",
+        "incorrect_answers": [
+            "The definite direct object marker אֵת is translated as 'and' in English sentences.",
+            "The definite direct object marker אֵת is translated as 'with' in English sentences.",
+            "The definite direct object marker אֵת is translated as 'in' in English sentences."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "What is an 'inner object' in Hebrew verbs?",
+        "correct_answer": "An 'inner object' in Hebrew verbs is when verbs are used with objects that share the same root, such as 'חֲלוֹםָחָּלַמְּנוּ' meaning 'we dreamed a dream.'",
+        "incorrect_answers": [
+            "An 'inner object' in Hebrew verbs is when the verb does not have a direct object.",
+            "An 'inner object' in Hebrew verbs is a type of preposition used with verbs.",
+            "An 'inner object' in Hebrew verbs is a synonym for the subject pronoun attached to the verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "How does Hebrew often designate members of a particular group or nation using nouns?",
+        "correct_answer": "Hebrew often designates members of a particular group or nation using nouns with the word 'בְּנֵי'.'",
+        "incorrect_answers": [
+            "Hebrew designates members of a group or nation using singular nouns with pronominal suffixes.",
+            "Hebrew designates members of a group or nation using a special preposition.",
+            "Hebrew designates members of a group or nation using a direct object marker."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "How common is the definite direct object marker אֵת in biblical Hebrew sentences?",
+        "correct_answer": "The definite direct object marker אֵת is very common in biblical Hebrew and appears almost 11,000 times in the text.",
+        "incorrect_answers": [
+            "The definite direct object marker אֵת is extremely rare in biblical Hebrew and appears only a few times in the text.",
+            "The definite direct object marker אֵת is sometimes used in biblical Hebrew but its usage is unclear.",
+            "The definite direct object marker אֵת is never used in biblical Hebrew."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 21,
+        "question": "What does a 'definite' direct object in Hebrew include?",
+        "correct_answer": "A 'definite' direct object in Hebrew may include nouns and construct chains marked by the definite article, nouns with a pronominal suffix, proper nouns (personal or place names), and pronouns.",
+        "incorrect_answers": [
+            "A 'definite' direct object in Hebrew only includes nouns with a pronominal suffix.",
+            "A 'definite' direct object in Hebrew only includes proper nouns (personal or place names).",
+            "A 'definite' direct object in Hebrew only includes pronouns."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "What kind of relationship does the Qatal verb express?",
+        "correct_answer": "The Qatal verb expresses an 'anterior' relationship, meaning it speaks of an action that occurs before something else in its context.",
+        "incorrect_answers": [
+            "The Qatal verb expresses a 'simultaneous' relationship, meaning it speaks of an action that occurs at the same time as another event.",
+            "The Qatal verb expresses a 'future' relationship, meaning it speaks of an action that will occur after another event.",
+            "The Qatal verb expresses a 'hypothetical' relationship, meaning it speaks of an action that may or may not happen in the future."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "In what contexts is the Qatal verb often found in narrative?",
+        "correct_answer": "In circumstantial and/or subordinate clauses that give background information to the main story line, concerning actions that occurred before the main past tense of the narrative.",
+        "incorrect_answers": [
+            "The Qatal verb is often found in future tense contexts, indicating actions that will occur in the future.",
+            "The Qatal verb is often found in present tense contexts, indicating ongoing or habitual actions.",
+            "The Qatal verb is often found in imperative mood contexts, indicating commands or requests."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "Which English tense is used to translate the Qatal verb when it occurs in contexts that express actions that happened before another past tense action?",
+        "correct_answer": "Past Perfect tense ('he had heard')",
+        "incorrect_answers": [
+            "Simple Past tense ('he heard')",
+            "Present Perfect tense ('he has heard')",
+            "Future Perfect tense ('he will have heard')"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "When translating the Qatal verb in direct speech, which English tenses are commonly used?",
+        "correct_answer": "Past Tense ('he heard') / Present Perfect tense ('he has heard')",
+        "incorrect_answers": [
+            "Simple Past tense ('he will hear')",
+            "Simple Present tense ('he hears')",
+            "Future Perfect tense ('he will have heard')"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "What is the Qatal verb's relationship to the main story line in narrative prose?",
+        "correct_answer": "The Qatal verb in narrative prose often provides background information that occurred before the main past tense of the narrative.",
+        "incorrect_answers": [
+            "The Qatal verb in narrative prose is always the main action of the story.",
+            "The Qatal verb in narrative prose indicates actions happening simultaneously with the main past tense.",
+            "The Qatal verb in narrative prose always indicates actions in the future."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "What is the Qatal verb's relationship to future actions in specific contexts?",
+        "correct_answer": "The Qatal verb can indicate actions that will occur in the future, but before another future action, and is translated using the Future Perfect tense ('he will have heard').",
+        "incorrect_answers": [
+            "The Qatal verb can only indicate actions that will occur simultaneously with another future action.",
+            "The Qatal verb cannot indicate future actions.",
+            "The Qatal verb can only indicate future actions that will happen after another future action."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "What is a difference between the English past tense and the Hebrew Qatal verb in narrative?",
+        "correct_answer": "The Hebrew Qatal verb can express an action that happened before the main past tense of the narrative, providing background information, while the English past tense may not always indicate this anterior relationship.",
+        "incorrect_answers": [
+            "The English past tense and the Hebrew Qatal verb always indicate the same time frame in narrative.",
+            "The English past tense can express actions that happened before the main past tense of the narrative, but the Hebrew Qatal verb cannot.",
+            "The Hebrew Qatal verb always indicates actions that happened at the same time as the main past tense of the narrative."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 22,
+        "question": "What is the purpose of the Qatal verb in circumstantial and/or subordinate clauses?",
+        "correct_answer": "The Qatal verb in circumstantial and/or subordinate clauses provides background information to the main story line, indicating actions that occurred before the main past tense of the narrative.",
+        "incorrect_answers": [
+            "The Qatal verb in circumstantial and/or subordinate clauses always indicates actions that happened after the main past tense of the narrative.",
+            "The Qatal verb in circumstantial and/or subordinate clauses serves as the main action of the story.",
+            "The Qatal verb in circumstantial and/or subordinate clauses is used to express future actions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 23,
+        "question": "What is the significance of the verb form 'וַיְהִי' ('vayehi') in biblical texts?",
+        "correct_answer": "'וַיְהִי' ('vayehi') is often used in the biblical text to mark the border between textual units.",
+        "incorrect_answers": [
+            "'וַיְהִי' ('vayehi') is used to indicate present actions.",
+            "'וַיְהִי' ('vayehi') is used exclusively in poetic texts.",
+            "'וַיְהִי' ('vayehi') indicates actions that will happen in the future."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 23,
+        "question": "How do demonstrative pronouns behave when describing a noun in Hebrew?",
+        "correct_answer": "Demonstrative pronouns in Hebrew follow the noun they describe, match the noun in both number and gender, and both the noun and the demonstrative pronoun take the definite article.",
+        "incorrect_answers": [
+            "Demonstrative pronouns in Hebrew precede the noun they describe.",
+            "Demonstrative pronouns in Hebrew do not match the noun in number and gender.",
+            "The noun takes the definite article, but the demonstrative pronoun does not."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 23,
+        "question": "What does 'הפֶּתַח הַזֶּה' ('hapetach hazeh') translate to in English?",
+        "correct_answer": "'הפֶּתַח הַזֶּה' ('hapetach hazeh') translates to 'this doorway' in English.",
+        "incorrect_answers": [
+            "'הפֶּתַח הַזֶּה' ('hapetach hazeh') translates to 'that window' in English.",
+            "'הפֶּתַח הַזֶּה' ('hapetach hazeh') translates to 'these stairs' in English.",
+            "'הפֶּתַח הַזֶּה' ('hapetach hazeh') translates to 'those gates' in English."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 23,
+        "question": "What does 'הסְּפָרִים הַהֵם' ('hasfarim haheim') translate to in English?",
+        "correct_answer": "'הסְּפָרִים הַהֵם' ('hasfarim haheim') translates to 'those letters' in English.",
+        "incorrect_answers": [
+            "'הסְּפָרִים הַהֵם' ('hasfarim haheim') translates to 'this book' in English.",
+            "'הסְּפָרִים הַהֵם' ('hasfarim haheim') translates to 'these pens' in English.",
+            "'הסְּפָרִים הַהֵם' ('hasfarim haheim') translates to 'that paper' in English."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 23,
+        "question": "Which phrase is the correct translation for 'זאֹת הדלת' ('zot hadlat')?",
+        "correct_answer": "'זאֹת הדלת' ('zot hadlat') translates to 'this door' in English.",
+        "incorrect_answers": [
+            "'זאֹת הדלת' ('zot hadlat') translates to 'that chair' in English.",
+            "'זאֹת הדלת' ('zot hadlat') translates to 'these windows' in English.",
+            "'זאֹת הדלת' ('zot hadlat') translates to 'those books' in English."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 23,
+        "question": "What is the translation of 'הוּא הכוח' ('hu hakoch') in English?",
+        "correct_answer": "'הוּא הכוח' ('hu hakoch') translates to 'he is the power' in English.",
+        "incorrect_answers": [
+            "'הוּא הכוח' ('hu hakoch') translates to 'they have the power' in English.",
+            "'הוּא הכוח' ('hu hakoch') translates to 'she uses the power' in English.",
+            "'הוּא הכוח' ('hu hakoch') translates to 'he makes the power' in Engllish."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 24,
+        "question": "What is the Yiqtol verb form used to express in narrative in Hebrew?",
+        "correct_answer": "The Yiqtol verb form in Hebrew is often used to express actions that occur in the future relative to other actions in the narrative.",
+        "incorrect_answers": [
+            "The Yiqtol verb form in Hebrew is exclusively used for actions in the past.",
+            "The Yiqtol verb form in Hebrew is used to indicate present actions.",
+            "The Yiqtol verb form in Hebrew is not used in narratives."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 24,
+        "question": "Which form is used to translate the Yiqtol verb in Hebrew?",
+        "correct_answer": "The Yiqtol form in Hebrew is typically translated as a simple future tense.",
+        "incorrect_answers": [
+            "The Yiqtol form in Hebrew is exclusively translated as a past tense.",
+            "The Yiqtol form in Hebrew is translated as a present continuous tense.",
+            "The Yiqtol form in Hebrew has no equivalent in English."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 24,
+        "question": "What is the primary distinguishing factor between the Yiqtol and Qatal verb forms in Hebrew?",
+        "correct_answer": "The primary distinguishing factor between the Yiqtol and Qatal verb forms in Hebrew is their temporal relationship. Yiqtol typically indicates actions in the future, while Qatal typically indicates past actions.",
+        "incorrect_answers": [
+            "The Yiqtol form is used in direct speech, while the Qatal form is used in indirect speech.",
+            "The Yiqtol form is used for masculine subjects, while the Qatal form is used for feminine subjects.",
+            "There is no distinguishing factor between the Yiqtol and Qatal forms."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 24,
+        "question": "In Hebrew, what is the Yiqtol form used for?",
+        "correct_answer": "In Hebrew, the Yiqtol form is often used to express actions that occur in the future relative to other actions in the narrative.",
+        "incorrect_answers": [
+            "In Hebrew, the Yiqtol form is exclusively used for actions in the past.",
+            "In Hebrew, the Yiqtol form is used to indicate present actions.",
+            "In Hebrew, the Yiqtol form is not used in narratives."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 24,
+        "question": "How do Hebrew verbs change when a guttural letter (e.g., ח, ה, ע) appears at the end of a word?",
+        "correct_answer": "When a guttural letter appears at the end of a word in Hebrew, a 'furtive pataḥ' (a short [a] vowel) is inserted between the guttural letter and the preceding vowel to aid in pronunciation.",
+        "incorrect_answers": [
+            "Hebrew verbs with guttural letters at the end of a word do not undergo any changes.",
+            "The guttural letter is simply omitted when it appears at the end of a Hebrew word.",
+            "Guttural letters are not used in Hebrew verbs."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "How is the Yiqtol form typically translated in direct speech in Hebrew?",
+        "correct_answer": "The Yiqtol form in direct speech is typically translated with the simple future tense, indicating an action that will occur after the time of speaking.",
+        "incorrect_answers": [
+            "The Yiqtol form in direct speech is typically translated as a past tense.",
+            "The Yiqtol form in direct speech is typically translated as a present tense.",
+            "The Yiqtol form in direct speech has no equivalent in English."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "In what kind of sentences is the Yiqtol form used in Hebrew, often requiring a translation with a present verb form in English?",
+        "correct_answer": "The Yiqtol form in Hebrew is used in conditional sentences, often requiring a translation with a present verb form in English.",
+        "incorrect_answers": [
+            "The Yiqtol form in Hebrew is used in direct speech only.",
+            "The Yiqtol form in Hebrew is used in past tense narratives.",
+            "The Yiqtol form in Hebrew is never used in conditional sentences."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "How is the Yiqtol form used in the language of the law in Hebrew?",
+        "correct_answer": "In the language of the law in Hebrew, the Yiqtol form is used to express general commands and is typically translated in English with 'shall.'",
+        "incorrect_answers": [
+            "The Yiqtol form is not used in the language of the law in Hebrew.",
+            "The Yiqtol form in the language of the law is typically translated with 'has.'",
+            "The Yiqtol form in the language of the law is typically translated as a future tense."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "How is the Yiqtol form used to express actions in Hebrew narratives?",
+        "correct_answer": "In Hebrew narratives, the Yiqtol form is often used to express actions that occur in the future relative to other actions in the narrative.",
+        "incorrect_answers": [
+            "In Hebrew narratives, the Yiqtol form is exclusively used to express past actions.",
+            "In Hebrew narratives, the Yiqtol form is used to indicate present actions.",
+            "In Hebrew narratives, the Yiqtol form is not used."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "What does the interrogative ה in Hebrew indicate in a sentence?",
+        "correct_answer": "The interrogative ה in Hebrew marks a sentence as a question and can be translated to English by changing the sentence structure to a question form.",
+        "incorrect_answers": [
+            "The interrogative ה in Hebrew marks the past tense in a sentence.",
+            "The interrogative ה in Hebrew indicates a negative sentence.",
+            "The interrogative ה in Hebrew is used for affirmative statements."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "How is the interrogative ה pointed in Hebrew when it appears before a letter with a shewa?",
+        "correct_answer": "The interrogative ה is pointed with the short [a] pataḥ when it appears before a letter with a shewa.",
+        "incorrect_answers": [
+            "The interrogative ה is pointed with the long [o] qamats when it appears before a letter with a shewa.",
+            "The interrogative ה is pointed with the reduced [ă] vowel when it appears before a letter with a shewa.",
+            "The interrogative ה is pointed with the dagesh lene when it appears before a letter with a shewa."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "When the interrogative ה appears before a word beginning with a guttural letter in Hebrew, how is it pointed?",
+        "correct_answer": "When the interrogative ה appears before a word beginning with a guttural letter in Hebrew, it is pointed with the short [a] pataḥ.",
+        "incorrect_answers": [
+            "When the interrogative ה appears before a guttural letter, it is pointed with the short [e] seghol.",
+            "The interrogative ה is not used before guttural letters in Hebrew.",
+            "When the interrogative ה appears before a guttural letter, it is pointed with the long [ā] qamats."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "What is the purpose of the interrogative ה in Hebrew sentences?",
+        "correct_answer": "The purpose of the interrogative ה in Hebrew sentences is to mark the sentence as a question, and it attaches to whichever word comes first in the sentence structure.",
+        "incorrect_answers": [
+            "The interrogative ה in Hebrew sentences marks the subject of the verb.",
+            "The interrogative ה in Hebrew sentences indicates a negative sentence.",
+            "Hebrew sentences do not use the interrogative ה."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 25,
+        "question": "In which situations in Hebrew might the interrogative ה take the same form as the definite article ה?",
+        "correct_answer": "In some situations, the interrogative ה may take the same form as the definite article ה. The meaning is then determined by the context.",
+        "incorrect_answers": [
+            "The interrogative ה and the definite article ה never have the same form in Hebrew.",
+            "The interrogative ה always takes the same form as the definite article ה.",
+            "The form of the interrogative ה is never affected by the context."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "What is the primary aspect of action that the Yiqtol form expresses in Hebrew?",
+        "correct_answer": "The primary aspect of action expressed by the Yiqtol form in Hebrew is 'posterior' or actions that occur after something else in its context.",
+        "incorrect_answers": [
+            "The Yiqtol form primarily expresses 'simultaneous' actions occurring at the same time.",
+            "The Yiqtol form primarily expresses 'past' actions that have already occurred.",
+            "The Yiqtol form primarily expresses 'continuous' actions without interruption."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "How is the Yiqtol form typically translated in English in the context of posterior actions in direct speech?",
+        "correct_answer": "In the context of posterior actions in direct speech, the Yiqtol form is typically translated with the simple future tense in English.",
+        "incorrect_answers": [
+            "In the context of posterior actions, the Yiqtol form is typically translated as a past tense.",
+            "In the context of posterior actions, the Yiqtol form is typically translated as a present tense.",
+            "The Yiqtol form has no translation in English for posterior actions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "When the Yiqtol form appears in the context of a past tense narrative, what English translations might be appropriate?",
+        "correct_answer": "When the Yiqtol form appears in a past tense narrative, it can be translated in various ways. The key is that the Yiqtol action happens after something else.",
+        "incorrect_answers": [
+            "In a past tense narrative, the Yiqtol form is always translated as 'simple past tense.'",
+            "In a past tense narrative, the Yiqtol form is exclusively translated as 'present tense.'",
+            "In a past tense narrative, the Yiqtol form is not used."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "What kind of actions does the Yiqtol form express when used for habitual or repeated actions?",
+        "correct_answer": "The Yiqtol form is used for habitual or repeated actions in Hebrew, including general truths, habitual present, and past iteratives.",
+        "incorrect_answers": [
+            "The Yiqtol form is only used for future actions.",
+            "The Yiqtol form is only used for past actions.",
+            "The Yiqtol form is not used for habitual actions in Hebrew."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "What is a 'habitual present' action expressed by the Yiqtol form in Hebrew?",
+        "correct_answer": "A 'habitual present' action expressed by the Yiqtol form is an action that is repeated over a period of time, beginning in the past and extending into the future. For example, 'He reads the newspaper every morning.'",
+        "incorrect_answers": [
+            "A 'habitual present' action is a one-time action that occurs only in the present.",
+            "A 'habitual present' action is a past action.",
+            "A 'habitual present' action is a continuous action without interruption."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "How is the 'past iterative' expressed by the Yiqtol form in Hebrew?",
+        "correct_answer": "The 'past iterative' expressed by the Yiqtol form is used for repeated or continued action in the past and can be translated as 'he used to do' or 'he would do.'",
+        "incorrect_answers": [
+            "The 'past iterative' expressed by the Yiqtol form is exclusively translated as 'simple past tense.'",
+            "The 'past iterative' expressed by the Yiqtol form is exclusively translated as 'future tense.'",
+            "The 'past iterative' is not expressed by the Yiqtol form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "How does the Yiqtol form translate habitual or repeated actions in English?",
+        "correct_answer": "In English, the Yiqtol form translates habitual or repeated actions using verb forms like 'he used to,' 'he would,' 'he continually,' depending on the context.",
+        "incorrect_answers": [
+            "The Yiqtol form in English translates habitual or repeated actions as 'simple past tense.'",
+            "The Yiqtol form in English translates habitual or repeated actions as 'simple present tense.'",
+            "The Yiqtol form in English has no equivalent for habitual or repeated actions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "What contextual factor is crucial for determining the translation of the Yiqtol form in Hebrew?",
+        "correct_answer": "The crucial contextual factor for determining the translation of the Yiqtol form in Hebrew is the relationship between the Yiqtol action and other actions in the narrative.",
+        "incorrect_answers": [
+            "The crucial factor for translation is the verb's length.",
+            "The crucial factor for translation is the verb's tense marker.",
+            "The Yiqtol form has a fixed translation regardless of context."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "In Hebrew, what is the primary use of the Yiqtol form in conditional sentences?",
+        "correct_answer": "In Hebrew, the primary use of the Yiqtol form in conditional sentences is to express the conditional clause, usually translated with a present verb form in English.",
+        "incorrect_answers": [
+            "The Yiqtol form is not used in conditional sentences in Hebrew.",
+            "The Yiqtol form is used exclusively for expressing future conditions in Hebrew.",
+            "The Yiqtol form is used exclusively for expressing past conditions in Hebrew."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "What is a 'general truth' expressed by the Yiqtol form in Hebrew?",
+        "correct_answer": "A 'general truth' expressed by the Yiqtol form is a truth that is not only true in the present but also at any point in the past or future. It is often seen in proverbial phrases and similar contexts.",
+        "incorrect_answers": [
+            "A 'general truth' is a one-time occurrence that happened only in the past.",
+            "A 'general truth' is exclusive to the present tense.",
+            "A 'general truth' is only used in narrative stories."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 26,
+        "question": "How is the Yiqtol form typically translated in English in the context of posterior actions in direct speech?",
+        "correct_answer": "In the context of posterior actions in direct speech, the Yiqtol form is typically translated with the simple future tense in English.",
+        "incorrect_answers": [
+            "In the context of posterior actions, the Yiqtol form is typically translated as a past tense.",
+            "In the context of posterior actions, the Yiqtol form is typically translated as a present tense.",
+            "The Yiqtol form has no translation in English for posterior actions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 27,
+        "question": "What is the literary device in Hebrew and English where words are omitted for contextual understanding?",
+        "correct_answer": "The literary device where words are omitted for contextual understanding is called 'ellipsis.'",
+        "incorrect_answers": [
+            "The literary device where words are omitted for contextual understanding is called 'metaphor.'",
+            "The literary device where words are omitted for contextual understanding is called 'simile.'",
+            "The literary device where words are omitted for contextual understanding is called 'hyperbole.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 27,
+        "question": "What does 'הַלָּיְּלָּה' ('the night') signify in Hebrew?",
+        "correct_answer": "'הַלָּיְּלָּה' ('the night') in Hebrew signifies 'tonight,' similar to 'הַיּוֹם' ('today').",
+        "incorrect_answers": [
+            "'הַלָּיְּלָּה' ('the night') signifies 'tomorrow.'",
+            "'הַלָּיְּלָּה' ('the night') signifies 'yesterday.'",
+            "'הַלָּיְּלָּה' ('the night') signifies 'now.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 27,
+        "question": "What is the Hebrew idiom 'וַיִּיטַב לִבוֹ' ('his heart was well') used to express?",
+        "correct_answer": "'וַיִּיטַב לִבוֹ' ('his heart was well') is a Hebrew idiom that means 'He was happy.'",
+        "incorrect_answers": [
+            "'וַיִּיטַב לִבוֹ' ('his heart was well') means 'He was sad.'",
+            "'וַיִּיטַב לִבוֹ' ('his heart was well') means 'He was sick.'",
+            "'וַיִּיטַב לִבוֹ' ('his heart was well') means 'He was angry.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 27,
+        "question": "What does 'כנף' (edge) of a person's garment symbolize in ancient Near Eastern culture?",
+        "correct_answer": "'כנף' (edge) in ancient Near Eastern culture symbolizes 'identity' and the 'authority of and protection given by that person.'",
+        "incorrect_answers": [
+            "'כנף' (edge) symbolizes 'danger.'",
+            "'כנף' (edge) symbolizes 'separation.'",
+            "'כנף' (edge) symbolizes 'simplicity.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What is the primary function of the Wayyiqtol form in Biblical Hebrew prose?",
+        "correct_answer": "The primary function of the Wayyiqtol form in Biblical Hebrew prose is to express the regular narrative past tense.",
+        "incorrect_answers": [
+            "The primary function of the Wayyiqtol form in Biblical Hebrew prose is to express future actions.",
+            "The primary function of the Wayyiqtol form in Biblical Hebrew prose is to express conditional sentences.",
+            "The primary function of the Wayyiqtol form in Biblical Hebrew prose is to express habitual actions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What is the main difference between the Wayyiqtol form and the Yiqtol form in their morphology?",
+        "correct_answer": "The main difference between the Wayyiqtol form and the Yiqtol form in their morphology is the prefix conjunction 'ו' at the beginning of the Wayyiqtol form.",
+        "incorrect_answers": [
+            "The main difference between the Wayyiqtol form and the Yiqtol form in their morphology is the use of different subject pronouns.",
+            "The main difference between the Wayyiqtol form and the Yiqtol form in their morphology is the length of the verb stem.",
+            "The main difference between the Wayyiqtol form and the Yiqtol form in their morphology is the presence of a dagesh in the subject prefix letter of the Wayyiqtol form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "How is the Wayyiqtol form usually translated in English?",
+        "correct_answer": "The Wayyiqtol form is usually translated in English with the simple past tense.",
+        "incorrect_answers": [
+            "The Wayyiqtol form is usually translated in English with the simple future tense.",
+            "The Wayyiqtol form is usually translated in English with the conditional tense.",
+            "The Wayyiqtol form is usually translated in English with the habitual present tense."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What does the Wayyiqtol form use as a prefix conjunction?",
+        "correct_answer": "The Wayyiqtol form uses the prefix conjunction 'ו' at the beginning of the verb.",
+        "incorrect_answers": [
+            "The Wayyiqtol form uses the prefix conjunction 'ל' at the beginning of the verb.",
+            "The Wayyiqtol form uses the prefix conjunction 'כ' at the beginning of the verb.",
+            "The Wayyiqtol form uses the prefix conjunction 'י' at the beginning of the verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What does the Wayyiqtol form add to the subject prefix letter of the verb?",
+        "correct_answer": "The Wayyiqtol form adds a dagesh to the subject prefix letter of the verb.",
+        "incorrect_answers": [
+            "The Wayyiqtol form adds a qamats to the subject prefix letter of the verb.",
+            "The Wayyiqtol form adds a hataf patah to the subject prefix letter of the verb.",
+            "The Wayyiqtol form adds a segol to the subject prefix letter of the verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "How is the subject pronoun typically handled in English translation for the Wayyiqtol form?",
+        "correct_answer": "In English translation, if no separate subject is written, the subject pronoun is typically added to the translation.",
+        "incorrect_answers": [
+            "In English translation, the subject pronoun is typically omitted from the translation.",
+            "In English translation, the subject pronoun is replaced with a direct object.",
+            "In English translation, the subject pronoun is added as a suffix to the verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What name did medieval grammarians give to the Wayyiqtol ו?",
+        "correct_answer": "Medieval grammarians called the Wayyiqtol ו 'vav conversive.'",
+        "incorrect_answers": [
+            "Medieval grammarians called the Wayyiqtol ו 'past perfect.'",
+            "Medieval grammarians called the Wayyiqtol ו 'future perfect.'",
+            "Medieval grammarians called the Wayyiqtol ו 'present perfect.'"
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What did modern scholars discover about the Wayyiqtol form and the Yiqtol form in comparative Semitics?",
+        "correct_answer": "Modern scholars discovered that the Wayyiqtol form and the Yiqtol form were once two different prefixed forms with entirely different functions.",
+        "incorrect_answers": [
+            "Modern scholars discovered that the Wayyiqtol form and the Yiqtol form are identical in their functions.",
+            "Modern scholars discovered that the Wayyiqtol form and the Yiqtol form both serve as future tense forms.",
+            "Modern scholars discovered that the Wayyiqtol form developed from the Yiqtol form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What did medieval grammarians mistakenly assume about the Wayyiqtol form?",
+        "correct_answer": "Medieval grammarians mistakenly assumed that the Wayyiqtol ו converted a future verb into a past tense verb.",
+        "incorrect_answers": [
+            "Medieval grammarians mistakenly assumed that the Wayyiqtol ו converted a present verb into a past tense verb.",
+            "Medieval grammarians mistakenly assumed that the Wayyiqtol ו converted a past verb into a future tense verb.",
+            "Medieval grammarians mistakenly assumed that the Wayyiqtol ו converted a past verb into a present tense verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 28,
+        "question": "What do English translations often add when translating the Wayyiqtol form?",
+        "correct_answer": "English translations often add the subject pronoun when translating the Wayyiqtol form.",
+        "incorrect_answers": [
+            "English translations often add the future tense marker when translating the Wayyiqtol form.",
+            "English translations often add the conditional clause when translating the Wayyiqtol form.",
+            "English translations often add the past perfect tense marker when translating the Wayyiqtol form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "What is the primary function of the Weqatal form in Biblical Hebrew?",
+        "correct_answer": "The primary function of the Weqatal form in Biblical Hebrew is to express future or repeated actions.",
+        "incorrect_answers": [
+            "The primary function of the Weqatal form in Biblical Hebrew is to express the past tense.",
+            "The primary function of the Weqatal form in Biblical Hebrew is to express conditional sentences.",
+            "The primary function of the Weqatal form in Biblical Hebrew is to express habitual actions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "What is the primary difference between the Weqatal form and the Qatal form in their morphology?",
+        "correct_answer": "The primary difference between the Weqatal form and the Qatal form in their morphology is the Weqatal form appears with a prefixed conjunction 'ו'.",
+        "incorrect_answers": [
+            "The primary difference between the Weqatal form and the Qatal form in their morphology is the Weqatal form uses different subject pronouns.",
+            "The primary difference between the Weqatal form and the Qatal form in their morphology is the Weqatal form has a dagesh in the subject prefix letter.",
+            "The primary difference between the Weqatal form and the Qatal form in their morphology is the Weqatal form has an ultimate accent in all forms."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "What is the significance of the conjunction 'ו' in the Weqatal form?",
+        "correct_answer": "The conjunction 'ו' in the Weqatal form marks the beginning of the Weqatal form in a sentence.",
+        "incorrect_answers": [
+            "The conjunction 'ו' in the Weqatal form is used to connect multiple verbs in a sentence.",
+            "The conjunction 'ו' in the Weqatal form indicates past tense.",
+            "The conjunction 'ו' in the Weqatal form adds emphasis to the verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "Where does the Weqatal form typically appear in a sentence?",
+        "correct_answer": "The Weqatal form typically appears at the beginning of its clause in a sentence.",
+        "incorrect_answers": [
+            "The Weqatal form typically appears in the middle of a clause in a sentence.",
+            "The Weqatal form typically appears at the end of a clause in a sentence.",
+            "The Weqatal form can appear anywhere in a sentence without a specific pattern."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "What is the pragmatic distinction between the Weqatal form and the Yiqtol form?",
+        "correct_answer": "One pragmatic distinction between the Weqatal and Yiqtol forms is that the Weqatal form always appears at the beginning of its clause in a sentence, while the Yiqtol form usually appears in the middle or at the end of its clause.",
+        "incorrect_answers": [
+            "The Yiqtol form always appears at the beginning of its clause, while the Weqatal form usually appears in the middle or at the end of its clause.",
+            "There is no pragmatic distinction between the Weqatal and Yiqtol forms.",
+            "The Yiqtol form is used for past tense, while the Weqatal form is used for future tense."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "How is the subject pronoun typically handled in English translation for the Weqatal form?",
+        "correct_answer": "In English translation, if no separate subject is written, the subject pronoun is typically added to the translation.",
+        "incorrect_answers": [
+            "In English translation, the subject pronoun is typically omitted from the translation.",
+            "In English translation, the subject pronoun is replaced with a direct object.",
+            "In English translation, the subject pronoun is added as a suffix to the verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "What is the effect of the conjunction 'ו' when used in the Weqatal form?",
+        "correct_answer": "The conjunction 'ו' marks the beginning of the Weqatal form in a sentence.",
+        "incorrect_answers": [
+            "The conjunction 'ו' indicates the past tense in the Weqatal form.",
+            "The conjunction 'ו' connects the Weqatal form with the following verb in the sentence.",
+            "The conjunction 'ו' adds emphasis to the Weqatal form."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "Which function is common between the Weqatal and Yiqtol forms in terms of the modal usage of verbs?",
+        "correct_answer": "Both the Weqatal and Yiqtol forms are used to express future or repeated actions in terms of the modal usage of verbs.",
+        "incorrect_answers": [
+            "The Weqatal form is used to express future actions, while the Yiqtol form is used to express past actions.",
+            "The Weqatal form is used to express repeated actions, while the Yiqtol form is used for future actions.",
+            "The Yiqtol form is used to express conditional sentences, while the Weqatal form is used for past actions."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 29,
+        "question": "How is the subject pronoun typically handled in English translation for the Weqatal form?",
+        "correct_answer": "In English translation, if no separate subject is written, the subject pronoun is typically added to the translation.",
+        "incorrect_answers": [
+            "In English translation, the subject pronoun is typically omitted from the translation.",
+            "In English translation, the subject pronoun is replaced with a direct object.",
+            "In English translation, the subject pronoun is added as a suffix to the verb."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 30,
+        "question": "What are the guttural letters in Hebrew, and why are they called so?",
+        "correct_answer": "The guttural letters in Hebrew are 'א' (alef), 'ה' (heh), 'ח' (ḥet), 'ע' (ayin), and sometimes 'ר' (resh). They are called guttural because they are pronounced in the throat.",
+        "incorrect_answers": [
+            "The guttural letters in Hebrew are 'ב' (bet), 'ג' (gimel), 'ד' (dalet), and 'כ' (kaf). They are called guttural because they are pronounced with a high pitch.",
+            "The guttural letters in Hebrew are 'ש' (shin), 'ת' (tav), 'צ' (tsadi), and 'פ' (peh). They are called guttural because they are pronounced with a nasal sound.",
+            "The guttural letters in Hebrew are 'מ' (mem), 'ל' (lamed), 'נ' (nun), and 'ו' (vav). They are called guttural because they are pronounced with a deep voice."
+        ]
+    },
+    {
+        "category": "grammar",
+        "type": "multiple",
+        "Unit": 30,
+        "question": "What is the glottal stop in Hebrew and when is it typically heard?",
+        "correct_answer": "The glottal stop in Hebrew is a brief cutting-off of the air flow and is typically heard in the middle of the expression 'uh-oh.'",
+        "incorrect_answers": [
+            "The glottal stop in Hebrew is a type of vowel sound only used at the beginning of words.",
+            "The glottal stop in Hebrew is a sound only used at the end of words.",
+            "The glottal stop in Hebrew is a fricative sound similar to 'sh.'"
+        ]
+    },
+    {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What is the basic rule of Hebrew syllables?",
+      "correct_answer": "The basic rule of Hebrew syllables is that each syllable must begin with a single consonant followed by at least one vowel.",
+      "incorrect_answers": [
+        "The basic rule of Hebrew syllables is that each syllable must begin with a vowel followed by a consonant.",
+        "The basic rule of Hebrew syllables is that each syllable must consist of only consonants.",
+        "The basic rule of Hebrew syllables is that there are no specific rules."
+      ]
+    },
+    {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What rule determines whether a shewa in Hebrew is silent or moving?",
+      "correct_answer": "In Hebrew, a moving shewa opens a syllable, and a silent shewa closes a syllable.",
+      "incorrect_answers": [
+        "In Hebrew, a moving shewa is always at the beginning of a word, and a silent shewa is always at the end of a word.",
+        "In Hebrew, a moving shewa is always pronounced as [ĕ], and a silent shewa is always pronounced as [ə].",
+        "In Hebrew, a moving shewa is only found in masculine nouns, and a silent shewa is only found in feminine nouns."
+      ]
+    },
+    {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What is the purpose of the strong dagesh in a word pattern?",
+      "correct_answer": "The strong dagesh in a word pattern doubles one of the consonants of the root.",
+      "incorrect_answers": [
+        "The strong dagesh in a word pattern indicates the grammatical gender of the word.",
+        "The strong dagesh in a word pattern is a silent marker.",
+        "The strong dagesh in a word pattern has no specific purpose."
+      ]
+    },
+    {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "Which Hebrew letters are categorized as guttural letters?",
+      "correct_answer": "א, ה, ח, ע",
+      "incorrect_answers": [
+        "ב, ג, ד, כ",
+        "ז, ט, ק, ר",
+        "מ, נ, ס, פ"
+      ]
+    },
+    {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What does the definite article in Hebrew mark?",
+      "correct_answer": "The definite article marks something or somebody specific.",
+      "incorrect_answers": [
+          "The definite article marks plural nouns.",
+          "The definite article marks indefinite nouns.",
+          "The definite article marks verbs in Hebrew."
+      ]
+  },
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "How is the definite article in Hebrew composed?",
+      "correct_answer": "The definite article in Hebrew is composed of the letter 'ה', the short vowel 'pataḥ', and a strong dagesh doubling the first consonant of the word.",
+      "incorrect_answers": [
+          "The definite article in Hebrew is a separate word from the noun it marks.",
+          "The definite article in Hebrew is composed of the letter 'ו', the long vowel 'û', and a weak dagesh.",
+          "The definite article in Hebrew consists of only the letter 'ה' without any additional elements."
+      ]
+  },
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What is the role of a plural construct chain in Hebrew grammar?",
+      "correct_answer": "The role of a plural construct chain in Hebrew grammar is to indicate a grammatical relationship where one plural noun modifies or qualifies another within a phrase or sentence.",
+      "incorrect_answers": [
+          "The role of a plural construct chain is to create singular nouns in Hebrew grammar.",
+          "The role of a plural construct chain is to form independent clauses.",
+          "The role of a plural construct chain is to separate nouns in a sentence."
+      ]
+  },
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What is the term for personal pronouns that stand apart as individual words, usually as the subject of a sentence?",
+      "correct_answer": " 'Independent personal pronouns.'",
+      "incorrect_answers": [
+          "Connected nouns.",
+          "Gender-specific pronouns.",
+          "Modifier nouns."
+      ]
+  },
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What does the basic rule for definiteness in construct chains state?",
+      "correct_answer": "The basic rule for definiteness in construct chains states that a noun in construct form cannot take the definite article.",
+      "incorrect_answers": [
+          "The basic rule for definiteness in construct chains states that all nouns in a construct chain must be definite.",
+          "The basic rule for definiteness in construct chains states that all nouns in construct form are definite.",
+          "The basic rule for definiteness in construct chains states that only the final noun in a construct chain can be definite."
+      ]
+  },
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What is the key rule for creating a nominal sentence in Hebrew?",
+      "correct_answer": "A nominal sentence is created in Hebrew when two absolute nouns or a noun and an adjective with different levels of definiteness are juxtaposed.",
+      "incorrect_answers": [
+          "A nominal sentence is created in Hebrew when two absolute nouns or a noun and an adjective with the same level of definiteness are juxtaposed.",
+          "A nominal sentence is created in Hebrew when a noun and an adjective are combined, regardless of their level of definiteness.",
+          "A nominal sentence is created in Hebrew only when proper nouns are used."
+      ]
+  },
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "How is the Yiqtol form typically translated in direct speech in Hebrew?",
+      "correct_answer": "The Yiqtol form in direct speech is typically translated with the simple future tense, indicating an action that will occur after the time of speaking.",
+      "incorrect_answers": [
+          "The Yiqtol form in direct speech is typically translated as a past tense.",
+          "The Yiqtol form in direct speech is typically translated as a present tense.",
+          "The Yiqtol form in direct speech has no equivalent in English."
+      ]
+  },
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "What does the Hebrew interrogative pronoun מָה typically ask in a nominal sentence?",
+      "correct_answer": "The Hebrew interrogative pronoun מָה typically asks about the nature or identity, meaning 'what,' in a nominal sentence.",
+      "incorrect_answers": [
+          "The Hebrew interrogative pronoun מָה typically asks about the subject, meaning 'who,' in a nominal sentence.",
+          "The Hebrew interrogative pronoun מָה typically asks about the location, meaning 'where,' in a nominal sentence.",
+          "The Hebrew interrogative pronoun מָה is not used in nominal sentences."
+      ]
+  },  
+  {
+      "category": "grammar",
+      "type": "multiple",
+      "Unit": 30,
+      "question": "When translating the Qatal verb in direct speech, which English tenses are commonly used?",
+      "correct_answer": "Past Tense ('he heard') / Present Perfect tense ('he has heard')",
+      "incorrect_answers": [
+          "Simple Past tense ('he will hear')",
+          "Simple Present tense ('he hears')",
+          "Future Perfect tense ('he will have heard')"
+      ]
+  }
+] 
