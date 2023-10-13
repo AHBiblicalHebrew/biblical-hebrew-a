@@ -261,15 +261,15 @@ export default function App() {
     try {
       const jsonFileName = category === 'grammar' ? 'GrammarQuestions.json' : 'VocabQuestions.json';
       const response = await fetch(process.env.PUBLIC_URL + '/' + jsonFileName);
-
+  
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
-
+  
       const data = await response.json();
-
+  
       const [unitStart, unitEnd] = unitRange.split('-').map(Number);
-
+  
       if (
         isNaN(unitStart) ||
         isNaN(unitEnd) ||
@@ -283,20 +283,30 @@ export default function App() {
       } else {
         setUnitRangeError(false);
       }
-
+  
       const filteredQuestions = data.filter(
         (questionData) =>
           questionData.Unit >= unitStart && questionData.Unit <= (unitEnd || unitStart)
       );
-
+  
       if (filteredQuestions.length === 0) {
         throw new Error('No questions found for the specified unit range.');
       }
-
-      const shuffledQuestions = shuffleArray(filteredQuestions);
-
-      const selectedQuestions = shuffledQuestions.slice(0, numQuestionsToFetch);
-
+  
+      const availableQuestions = shuffleArray(filteredQuestions.slice()); // Make a copy of the questions to avoid modifying the original array
+      const selectedQuestions = [];
+  
+      while (selectedQuestions.length < numQuestionsToFetch) {
+        if (availableQuestions.length === 0) {
+          // If there are no more questions available in the unit range, shuffle and add again
+          availableQuestions.push(...shuffleArray(filteredQuestions.slice()));
+        }
+  
+        // Pop a random question from the available questions
+        const randomIndex = Math.floor(Math.random() * availableQuestions.length);
+        selectedQuestions.push(availableQuestions.splice(randomIndex, 1)[0]);
+      }
+  
       const formattedQuestions = selectedQuestions.map((questionData) => {
         if (category === 'grammar') {
           const { question, correct_answer, incorrect_answers } = questionData;
@@ -309,31 +319,31 @@ export default function App() {
           };
         } else if (category === 'vocab') {
           const { Hebrew, Transliteration, Translation, Unit, Biblical_Frequency } = questionData;
-
+  
           const possibleHeaders = ['Translation'];
           if (Unit >= 1 && Unit <= 10 && Math.random() <= 0.2) {
             possibleHeaders.push('Transliteration');
           }
-
+  
           const selectedHeader =
             possibleHeaders[Math.floor(Math.random() * possibleHeaders.length)];
-
+  
           let correctAnswer =
             selectedHeader === 'Transliteration' ? Transliteration : Translation;
-
+  
           if (correctAnswer === 'null') {
             correctAnswer = Translation;
           }
-
+  
           const incorrectAnswers = generateIncorrectAnswers(
             selectedHeader,
             correctAnswer,
             data
           );
-
+  
           const allAnswers = shuffleArray(incorrectAnswers);
           allAnswers.splice(Math.floor(Math.random() * 4), 0, correctAnswer);
-
+  
           return {
             question: `What is the ${selectedHeader} of ${Hebrew}?`,
             correctAnswer,
@@ -344,9 +354,9 @@ export default function App() {
         }
         return null;
       });
-
+  
       const finalQuestions = formattedQuestions.filter((question) => question !== null);
-
+  
       setQuestions(finalQuestions);
       setCurrentQuestion(0);
       setScore(0);
@@ -359,6 +369,8 @@ export default function App() {
       setLoading(false);
     }
   };
+  
+  
 
   const navigateToSettings = () => {
     setQuizCompleted(false);
